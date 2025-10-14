@@ -436,6 +436,11 @@ body>main {
   row-gap: 20px;
   text-decoration: none;
 
+  h5{
+    text-align: center;
+    text-wrap: pretty;
+  }
+
   img {
     aspect-ratio: 1;
     width: 200px;
