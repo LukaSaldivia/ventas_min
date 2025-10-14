@@ -5,6 +5,8 @@ const _$$ = (element = HTMLElement, selector = '') => element.querySelectorAll(s
 const { format } = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'ARS', currencyDisplay: 'narrowSymbol', maximumFractionDigits: 0 })
 const input = $('[role="group"] input')
 
+const gruposMinimos = ["Peipo", "Quesada", "Emezeta", "Dulcor", "Calchaqui", "Paladini", "Cris Jor", "Don Luis", "Lopardo"]
+
 
 
 // Carga de datos
@@ -18,7 +20,15 @@ fetch('output.json').then(response => response.json()).then(data => {
 
   empresas.sort((a, b) => a == "Aliger" ? -1 : b == "Aliger" ? 1 : 0)
 
-  for (const empresa of empresas) {
+  const empresasMinimas = {}
+
+  Object.keys(data.grupos).forEach(grupo => {
+  if(gruposMinimos.includes(grupo))
+    empresasMinimas[grupo] = data[grupo]
+})
+
+  for (const empresa of Object.keys(empresasMinimas)) {
+    console.log(empresa)
 
     const div = document.createElement('div')
     div.classList.add('row')
@@ -67,9 +77,9 @@ fetch('output.json').then(response => response.json()).then(data => {
   // Buscar por productos o empresas según URL Param "q"
 
   const urlParams = new URLSearchParams(window.location.search);
-  let searchQuery = urlParams.get('q').trim().toLowerCase();
-  searchQuery = searchQuery.replaceAll("+", " ")
-  input.value = searchQuery
+  let searchQuery = urlParams.get('q')?.trim().toLowerCase();
+  searchQuery = searchQuery?.replaceAll("+", " ")
+  input.value = searchQuery || ""
   search(searchQuery)
 
 
