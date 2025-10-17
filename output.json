@@ -87,12 +87,12 @@
             "BATATA C/GUINDAS": "20712.270",
             "BATATA CAJON ESNAOLA": "10296.240",
             "BATATA CON CHOC.X 500": "1425.710",
-            "BATATA CON CHOCOLATE X 2 KG": "4198.830",
+            "BATATA CON CHOCOLATE X 2 KG": "4413.050",
             "BATATA CON CHOCOLATE X 700": "3794.160",
             "BATATA LATA C/CHOC.": "12746.420",
             "BATATA LATA VLLA.": "12746.420",
             "BATATA VLLA.LATA X 700": "3794.160",
-            "BATATA VLLA.X 2 KG.": "4198.830",
+            "BATATA VLLA.X 2 KG.": "4413.050",
             "BATATA X 500 ESNAOLA": "1449.870",
             "HILERET CLASICO X 500": "10576.760",
             "MANTECOL C/ALM.X 3.4 KG": "59609.720",
@@ -100,7 +100,7 @@
             "MANTECOL CLASICO X 253 GRS.": "3751.460",
             "MANTECOL LINGOTE X 500 GRS.": "9552.070",
             "MEMBRILLO LATA": "13836.170",
-            "MEMBRILLO LATA X 700": "4490.440",
+            "MEMBRILLO LATA X 700": "4714.960",
             "MEMBRILLO X 2 KG.": "5159.820",
             "MEMBRILLO X 500": "1742.990",
             "MERMELADA ARANADANO X 390": "3139.590",
@@ -123,8 +123,9 @@
         "San Cayetano": {
             "AJI EN VINAGRE X900GR": "12826.040",
             "BIDON PICKLE X4.6KG": "17217.150",
+            "PICKLES X 2KG": "9179.180",
             "BIDON DESC X4KG 0": "37091.980",
-            "BIDON DESC X4KG 00": "34510.990",
+            "BIDON DESC X4KG 00": "36473.120",
             "BIDON NEGRA DESC X4KG": "35495.420",
             "BIDON NEGRA ROD X4KG": "32516.840",
             "BIDON NEGRA X4.6K 0": "32292.000",
@@ -135,11 +136,11 @@
             "BIDON X4.6KG 000": "49635.110",
             "BIDON X4.6KG 1": "25207.460",
             "BIDON X4.6KG 2": "23522.400",
-            "BIDON X4.6KG 3": "22681.290",
+            "BIDON X4.6KG 3": "23345.630",
             "BIDON X4.6KG RELLENA": "49585.970",
             "FRASCO NEGRA DESC X2KG": "19536.850",
             "FRASCO NEGRA X2KG 0": "16113.810",
-            "FRASCO NEGRA X2KG 00": "23014.970",
+            "FRASCO NEGRA X2KG 00": "23133.410",
             "FRASCO X1.8KG 0": "13294.400",
             "FRASCO X1.8KG RODAJAS": "15339.400",
             "FRASCO X2KG 00": "21070.550",
@@ -219,9 +220,9 @@
             "FIAMBRE DE PAVO": "26512.890",
             "LECHE LARGA VIDA ILOLAY": "1562.490",
             "BONDIOLA CALCHAQUI": "21097.020",
-            "MORTADELA BOCHA CALCHAQUI": "7921.770",
-            "MORTADELA C/PIST CALCHAQUI": "12443.870",
-            "MORTADELA CAÑON CALCHAQUI": "6367.110",
+            "MORTADELA BOCHA CALCHAQUI": "8235.620",
+            "MORTADELA C/PIST CALCHAQUI": "12817.250",
+            "MORTADELA CAÑON CALCHAQUI": "6915.860",
             "MORTADELA GIG. CALCHAQUI": "8714.400",
             "PANCETA AHUMADA CALCHAQUI": "17103.220"
         },
@@ -229,7 +230,7 @@
             "JAMON COCIDO BOCATTI": "17610.850"
         },
         "Hellmans": {
-            "KETCHUP HELLMAN`S X 60 GRS.": "848.690",
+            "KETCHUP HELLMAN`S X 60 GRS.": "877.630",
             "KETCHUP MONOP.HELLMAN´S": "16006.450",
             "MAYONESA MONOPORCION": "16013.930",
             "MAYONESA X2.9 HELLMANS": "11922.070"
@@ -237,20 +238,27 @@
         "Paladini": {
             "BONDIOLA CONGELADA PALADINI": "9512.260",
             "BONDIOLA PALADINI": "25700.950",
+            "COSTILLITAS CONG.PALADINI": "8352.460",
             "FIAMBRE DE PALETA PALADINI X 4": "9058.510",
+            "HAMBURGUESA PALADINI X 4": "4896.770",
+            "HAMBURGUESA PALADINI X 60": "1102.600",
             "JAMON COCIDO PALADINI X 6 KG": "10785.000",
             "LEBERWURST X 250 GRS.": "2083.900",
+            "MEDALLON FELA X 4": "2503.450",
+            "MEDALLON FELA X 72": "533.510",
             "MILAN FELA": "11420.590",
             "MILAN TIVOLI": "9346.390",
-            "PALETA PALADINI X6KG": "11102.190",
+            "PALETA PALADINI X6KG": "11104.130",
             "PATE PALADINI": "793.880",
             "PICADILLO PALADINI": "771.840",
+            "PIZZETA MUZZARELLA": "2369.290",
+            "PIZZETAS X 20 JAMON Y QUESO": "2548.660",
             "QUESO DE CERDO PALADINI": "7306.330",
             "VIENA X 6 FELA": "1140.440",
             "VIENA X 6 PALDINI": "1733.400",
-            "MORTADELA FAM. PALADINI": "2966.210",
+            "MORTADELA FAM. PALADINI": "2778.860",
             "MORTADELA X 2.5KG PALADINI": "9143.060",
-            "MORTADELA X4.5KG PALADINI": "8333.660"
+            "MORTADELA X4.5KG PALADINI": "8013.060"
         },
         "Las Piaras": {},
         "Punta del agua": {},
@@ -309,7 +317,7 @@
             "PASAS DE UVA CON CHOCOLATE X 1": "1207.970"
         },
         "Cabrales": {
-            "CAFE EN SAQ. CABRALES X18": "4390.750",
+            "CAFE EN SAQ. CABRALES X18": "4469.150",
             "CAFE EN SAQ. LA PLANTA": "3920.330",
             "CAFE TOST.MOLIDO X 250 GRS.COL": "17476.120",
             "CAPSULA CORTADO DOLCE GUSTO": "6023.930",
@@ -423,7 +431,7 @@
             "SALAMIN LOPARDO": "12317.550"
         },
         "Cabaña Azul": {
-            "BARRA CABAÑA AZUL": "7852.900",
+            "BARRA CABAÑA AZUL": "7453.600",
             "MUZZA CABAÑA AZUL": "6942.590",
             "QUESO DE CERDO VICTORIA": "4409.990"
         },
@@ -544,7 +552,7 @@
             "TRAPO GRIS B-AIRE/JULIET": "879.030",
             "VAINILLA POZO": "746.950",
             "VINAGRE MANZANA X 500ML": "1322.460",
-            "VIRULANA ROLLO": "937.630",
+            "VIRULANA ROLLO": "1125.160",
             "YERBA AMANDA": "1715.010",
             "YERBA CBSE LIMON X500": "1810.460",
             "YERBA CBSE NARANJA X500": "1810.460",
@@ -559,138 +567,54 @@
     },
     "cambios": {
         "Quesada": {
-            "BARRA QUESADA": "7861.310"
+            "CREMOSO QUESADA": "6590.060"
         },
-        "Emezeta": {
-            "CRUDO EMEZETA": "20228.050",
-            "JAMON NATIVO EMEZETA": "9400.140",
-            "FIAMBRE DE JAMON COCIDO GRANDE": "6322.410",
-            "PALETA MINI EMEZETA": "5911.700",
-            "LOMO CANADIENSE EMEZETA": "11320.390",
-            "MILAN LARGO EMEZETA": "8617.610",
-            "BASTON EMEZETA": "10668.100",
-            "BONDIOLA EMEZETA": "15584.990",
-            "PANCETA AHUM C/C EMEZETA": "12255.360",
-            "PANCETA TIERNIZADA EMEZETA": "6303.740",
-            "PANCETA SALADA EMEZETA": "12122.970",
-            "SALCHICHON C/JAMON EMEZETA": "4082.420",
-            "SALCHICHON PRIMAVERA EMEZETA": "4082.420",
-            "MORTADELA EMEZETA": "4560.440",
-            "MILANCITO EMEZETA": "9896.840",
-            "JAMON BOLON 3783": "5729.000",
-            "LOMO AHUMADO EMEZETA": "9687.700",
-            "PALETA CUADRADA EMEZETA": "5906.390",
-            "PERNIL MINI EMEZETA": "6310.370",
-            "MILAN CORTO MZ": "8602.130",
-            "BONDIOLA AL VACIO 1/2 MZ": "16144.010"
+        "Dulcor": {
+            "BATATA CON CHOCOLATE X 2 KG": "4413.050",
+            "BATATA VLLA.X 2 KG.": "4413.050",
+            "MEMBRILLO LATA X 700": "4714.960"
         },
-        "Aliger": {
-            "SARDO ALIGER": "8400.000",
-            "PATEGRAS ALIGER": "8704.000"
-        },
-        "El Bocarte": {
-            "ANCHOAS 60 X 3": "30464.000",
-            "ANCHOAS 18 X 3": "11616.000",
-            "ANCHOAS 30 X 3": "16896.000"
-        },
-        "Aromas y Sabores": {
-            "ADOBO X25GR": "308.300",
-            "AJI MOLIDO X25GR": "325.130",
-            "COMINO X25GR": "291.840",
-            "CHIMICHURRI X25GR": "286.980",
-            "NUEZ MOSCADA MOLIDA X25GR": "779.880",
-            "NUEZ MOSCADA X2 UN.": "942.400",
-            "OREGANO X25GR": "341.290",
-            "PIMENTON X25GR": "334.310",
-            "PIMIENTA BLANCA X25GR": "953.350",
-            "PIM NEGRA EN GRANO X25GR": "923.560",
-            "PIM NEGRA MOLIDA X25GR": "673.810",
-            "PROVENZAL X25GR": "382.510",
-            "SALSA BLANCA X25GR": "301.570",
-            "ESPECIAS SURTIDAS X25GR": "272.380",
-            "POLVO PARA HORNEAR X50GR": "448.000",
-            "ADOBO P/PIZZAS X 1 KG": "4857.750",
-            "OREGANO X 1 KG": "4629.170",
-            "PIMENTON X 1 KG": "6574.510",
-            "AJI MOLIDO X 1 KG": "5539.590",
-            "BICARBONATO X 50 GRS.": "549.260",
-            "COCO RALLADO X1KG AYS": "9450.000",
-            "PIM BLANCA MOLIDA X 1 KG": "12064.520",
-            "CONDIMENTO P/ARROZ": "375.060",
-            "ESPECIES SURTIDA X1KG": "6735.960",
-            "EXTRACTO DE VAIN AYS X100CC": "584.140",
-            "CHIMICHURRI X 1 KG": "4381.770",
-            "AZUCAR IMPALPABLE X 200": "910.490",
-            "COCO RALLADO X 25 GRS.": "363.880",
-            "COMINO X 1 KG": "4704.750",
-            "FECULA DE MAIZ X 200": "1166.630",
-            "AJO GRANULADO X 25GR": "470.250",
-            "PEREJIL DESHIDRATADO X25GR": "521.670",
-            "GRANAS P/REPOS.SURT": "290.580",
-            "GRAGEAS P/REPOSTERIA": "367.840"
+        "San Cayetano": {
+            "FRASCO NEGRA X2KG 00": "23133.410",
+            "BIDON DESC X4KG 00": "36473.120",
+            "BIDON X4.6KG 3": "23345.630",
+            "PICKLES X 2KG": "9179.180"
         },
         "Calchaqui": {
-            "FIAMBRE DE PAVO": "24102.630"
+            "MORTADELA BOCHA CALCHAQUI": "8235.620",
+            "MORTADELA CAÑON CALCHAQUI": "6915.860",
+            "MORTADELA C/PIST CALCHAQUI": "12817.250"
+        },
+        "Hellmans": {
+            "KETCHUP HELLMAN`S X 60 GRS.": "877.630"
         },
         "Paladini": {
-            "MORTADELA X4.5KG PALADINI": "7716.350",
-            "MORTADELA FAM. PALADINI": "2746.480",
-            "MORTADELA X 2.5KG PALADINI": "8465.800",
-            "VIENA X 6 FELA": "1055.960",
-            "PALETA PALADINI X6KG": "10279.800",
-            "VIENA X 6 PALDINI": "1650.850",
-            "LEBERWURST X 250 GRS.": "1929.540",
-            "MILAN TIVOLI": "8654.070",
-            "MILAN FELA": "10574.610",
-            "BONDIOLA PALADINI": "24246.170",
-            "QUESO DE CERDO PALADINI": "6642.110",
-            "PATE PALADINI": "735.080",
-            "PICADILLO PALADINI": "735.080",
-            "BONDIOLA CONGELADA PALADINI": "8647.510"
+            "MORTADELA X4.5KG PALADINI": "8013.060",
+            "MORTADELA FAM. PALADINI": "2778.860",
+            "VIENA X 6 FELA": "1140.440",
+            "PALETA PALADINI X6KG": "11104.130",
+            "VIENA X 6 PALDINI": "1733.400",
+            "MILAN TIVOLI": "9346.390",
+            "MILAN FELA": "11420.590",
+            "BONDIOLA PALADINI": "25700.950",
+            "BONDIOLA CONGELADA PALADINI": "9512.260",
+            "COSTILLITAS CONG.PALADINI": "8352.460",
+            "MEDALLON FELA X 4": "2503.450",
+            "HAMBURGUESA PALADINI X 4": "4896.770",
+            "MEDALLON FELA X 72": "533.510",
+            "HAMBURGUESA PALADINI X 60": "1102.600",
+            "PIZZETAS X 20 JAMON Y QUESO": "2548.660",
+            "PIZZETA MUZZARELLA": "2369.290"
         },
-        "Finca de Santiago": {
-            "ALMENDRAS PELADAS": "22869.000"
+        "Cabrales": {
+            "CAFE EN SAQ. CABRALES X18": "4469.150"
         },
-        "Amanecer": {
-            "COPETIN X 300": "1485.930",
-            "CONITOS CON QUESO X 800": "10157.820"
-        },
-        "Platamar": {
-            "ANCHOAS 40X3": "23534.020"
-        },
-        "Carrité": {
-            "MICROFIBRA PAÑO 30X40": "1327.100"
-        },
-        "Porta": {
-            "ALCOHOL DE QUEMAR X 1L": "2494.380"
-        },
-        "Limpialin": {
-            "LIMPIADOR LIQ.LAVANDA": "811.800",
-            "LIMPIADOR LIQUIDO MARINA": "811.800",
-            "LIMPIADOR LIQUIDO PINO": "811.800",
-            "LIMPIADOR LIQUIDO CITRONELA": "811.800"
-        },
-        "Lopardo": {
-            "PANCETA AHUMADA LOPARDO": "10664.600",
-            "JAMON NATURAL LOPARDO": "10664.600",
-            "PALETA COCIDA DON SILVIO": "4704.300",
-            "QUESO DE CERDO LOPARDO": "4920.590",
-            "SALAMIN LOPARDO": "11197.760",
-            "CASERITA LOPARDO": "10599.460",
-            "JAMON COCIDO C/C LOPARDO": "6291.580"
+        "Cabaña Azul": {
+            "BARRA CABAÑA AZUL": "7453.600"
         },
         "OTRAS COMPRAS": {
-            "PALILLOS IMPACTO": "316.520",
-            "SAVORA SACHET X60": "651.140",
-            "CALDO VERDURA KNORR X 2": "461.370",
-            "JUGO DE LIMON MINERVA X 250": "1286.640",
-            "LAVANDINA AYUDIN 1L": "1075.300",
-            "CHOCOLINO X 180": "1730.370",
-            "BOLSAS ZELNOVA 60X90": "1009.070",
-            "FIDEO TIRABUZON SOL PAMPEANO X": "712.500",
-            "TE TARAGUI COMUN": "727.630",
-            "FIDEO CELENTANO SOL PAMP": "713.510"
+            "VIRULANA ROLLO": "1125.160"
         }
     },
-    "fecha": "14-10-2025 09:42:52"
+    "fecha": "17-10-2025 09:53:12"
 }
