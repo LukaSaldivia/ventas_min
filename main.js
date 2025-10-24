@@ -5,7 +5,7 @@ const _$$ = (element = HTMLElement, selector = '') => element.querySelectorAll(s
 const { format } = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'ARS', currencyDisplay: 'narrowSymbol', maximumFractionDigits: 0 })
 const input = $('[role="group"] input')
 
-const gruposMinimos = ["Peipo", "Quesada", "Emezeta", "Dulcor", "Calchaqui", "Paladini", "Cris Jor", "Don Luis", "Lopardo", "Productos W"]
+const gruposMinimos = ["Peipo", "Quesada", "Emezeta", "Dulcor", "Calchaqui", "Paladini", "Cris Jor", "Don Luis", "Lopardo", "Productos W", "Arrodul"]
 
 
 
