@@ -393,6 +393,19 @@ body>header {
   height: auto;
 }
 
+/* QR */
+
+.qr{
+  margin-block: 40px;
+  display: grid;
+  gap: 16px;
+  justify-items: center;
+
+  img{
+    width: 200px;
+  }
+}
+
 
 
 /* Comportamientos */
@@ -471,9 +484,17 @@ body>header {
     display: none;
   }
 
+  .articulo{
+    break-inside: avoid;
+  }
+
   .articulo.modificado {
     border: 2px dotted var(--clr-font);
     background-color: transparent;
+  }
+
+  .qr{
+    break-inside: avoid;
   }
 
 }
