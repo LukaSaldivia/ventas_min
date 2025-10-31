@@ -388,6 +388,14 @@
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.5
+        },
+        "520": {
+            "nombre_articulo": "FIAMBRE DE PAVO",
+            "precio": "21911.48",
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 3.5
         }
     },
     "Dulcor": {
@@ -670,6 +678,14 @@
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
+        },
+        "534": {
+            "nombre_articulo": "COPOS AZUC. NUTRI FLAKES X 400",
+            "precio": "1571.94",
+            "modificado": true,
+            "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
         }
     },
     "Paladini": {
@@ -808,6 +824,62 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
+        },
+        "522": {
+            "nombre_articulo": "COSTILLITAS CONG.PALADINI",
+            "precio": "6902.86",
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 2.5
+        },
+        "523": {
+            "nombre_articulo": "MEDALLON FELA X 4",
+            "precio": "2177.86",
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "524": {
+            "nombre_articulo": "HAMBURGUESA PALADINI X 4",
+            "precio": "4046.92",
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "525": {
+            "nombre_articulo": "MEDALLON FELA X 2 UNID.",
+            "precio": "881.85",
+            "modificado": false,
+            "factor": "36",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "526": {
+            "nombre_articulo": "HAMB. PALADINI X 2 UNID.",
+            "precio": "1822.49",
+            "modificado": false,
+            "factor": "30",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "527": {
+            "nombre_articulo": "PIZZETAS X 20 JAMON Y QUESO",
+            "precio": "2106.33",
+            "modificado": false,
+            "factor": "20",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "528": {
+            "nombre_articulo": "PIZZETA MUZZARELLA",
+            "precio": "1958.09",
+            "modificado": false,
+            "factor": "20",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
         }
     },
     "Quesada": {
@@ -825,7 +897,7 @@
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
-            "peso_promedio": 5.6
+            "peso_promedio": 5.5
         },
         "61": {
             "nombre_articulo": "CRIOLLO QUESADA",
@@ -1113,8 +1185,8 @@
     "Productos W": {
         "122": {
             "nombre_articulo": "CRUDO W",
-            "precio": "12241.04",
-            "modificado": false,
+            "precio": "12899.75",
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.6
@@ -1250,6 +1322,48 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
+        }
+    },
+    "Arrodul": {
+        "529": {
+            "nombre_articulo": "DULCE DE LECHE REP.X 10 KG",
+            "precio": "23283.33",
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "530": {
+            "nombre_articulo": "DULCE DE LECHE HELAD.X 10 KG.",
+            "precio": "26774.09",
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "531": {
+            "nombre_articulo": "DULCE DE LECHE FAM.X 10 KG",
+            "precio": "22048.63",
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "532": {
+            "nombre_articulo": "DULCE DE LECHE FAM. X 1 KG.ARR.",
+            "precio": "3005.68",
+            "modificado": true,
+            "factor": "6",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "533": {
+            "nombre_articulo": "DULCE DE LECHE REP. X 5 KG.",
+            "precio": "11992.17",
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
         }
     }
 }
