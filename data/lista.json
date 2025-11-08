@@ -756,10 +756,10 @@
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
             "precio": 10784.9962,
-            "modificado": false,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
-            "peso_promedio": 499.9
+            "peso_promedio": 6.0
         },
         "398": {
             "nombre_articulo": "MILAN TIVOLI",
@@ -1038,10 +1038,10 @@
         "78": {
             "nombre_articulo": "CREMA QUESADA",
             "precio": 6421.1312,
-            "modificado": false,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
-            "peso_promedio": 500.0
+            "peso_promedio": 9.6
         },
         "79": {
             "nombre_articulo": "PARMESANO QUESADA",
@@ -1110,10 +1110,10 @@
         "362": {
             "nombre_articulo": "SALSA CHEDDAR SACHET",
             "precio": 4265.7098,
-            "modificado": false,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
-            "peso_promedio": 500.0
+            "peso_promedio": 5.0
         },
         "383": {
             "nombre_articulo": "SABORIZADO QUESADA X 700",
