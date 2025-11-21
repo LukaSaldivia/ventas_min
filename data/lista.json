@@ -1,5 +1,5 @@
 {
-    "FECHA": "15-11-2025",
+    "FECHA": "21-11-2025",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X500",
@@ -173,16 +173,16 @@
         },
         "8": {
             "nombre_articulo": "MILAN LARGO EMEZETA",
-            "precio": 9393.1937,
-            "modificado": false,
+            "precio": 9962.2446,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
         },
         "9": {
             "nombre_articulo": "BASTON EMEZETA",
-            "precio": 11628.2331,
-            "modificado": false,
+            "precio": 11734.9067,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
@@ -245,8 +245,8 @@
         },
         "134": {
             "nombre_articulo": "MILANCITO EMEZETA",
-            "precio": 10688.5955,
-            "modificado": false,
+            "precio": 11441.1066,
+            "modificado": true,
             "factor": "15",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
@@ -285,8 +285,8 @@
         },
         "401": {
             "nombre_articulo": "MILAN CORTO MZ",
-            "precio": 9376.326299999999,
-            "modificado": false,
+            "precio": 9962.2446,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
@@ -660,7 +660,7 @@
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
             "precio": 8515.0846,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 4.8
@@ -668,7 +668,7 @@
         "50": {
             "nombre_articulo": "MORTADELA FAM. PALADINI",
             "precio": 2992.2332,
-            "modificado": true,
+            "modificado": false,
             "factor": "16",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -676,7 +676,7 @@
         "51": {
             "nombre_articulo": "MORTADELA X 2.5KG PALADINI",
             "precio": 9557.1366,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
@@ -692,7 +692,7 @@
         "266": {
             "nombre_articulo": "PALETA PALADINI X6KG",
             "precio": 12446.096300000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
@@ -700,7 +700,7 @@
         "340": {
             "nombre_articulo": "VIENA X 6 PALDINI",
             "precio": 1623.699,
-            "modificado": true,
+            "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -708,7 +708,7 @@
         "357": {
             "nombre_articulo": "LEBERWURST X 250 GRS.",
             "precio": 2102.1693,
-            "modificado": true,
+            "modificado": false,
             "factor": "26",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -716,7 +716,7 @@
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
             "precio": 11954.8363,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
@@ -731,7 +731,7 @@
         },
         "399": {
             "nombre_articulo": "MILAN FELA",
-            "precio": 11916.9996,
+            "precio": 11918.040200000001,
             "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
@@ -740,7 +740,7 @@
         "400": {
             "nombre_articulo": "BONDIOLA PALADINI",
             "precio": 27222.7131,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
@@ -755,8 +755,8 @@
         },
         "502": {
             "nombre_articulo": "QUESO DE CERDO PALADINI",
-            "precio": 7306.3309,
-            "modificado": false,
+            "precio": 7779.876499999999,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -820,7 +820,7 @@
         "526": {
             "nombre_articulo": "HAMB. PALADINI X 2 UNID.",
             "precio": 2066.5469000000003,
-            "modificado": true,
+            "modificado": false,
             "factor": "30",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -872,6 +872,14 @@
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
+        },
+        "544": {
+            "nombre_articulo": "SALCHICHON TRIPLE PALADINI",
+            "precio": 8032.706,
+            "modificado": true,
+            "factor": "4",
+            "unidad_kilo": "K",
+            "peso_promedio": 2.8
         }
     },
     "Quesada": {
@@ -990,7 +998,7 @@
         "78": {
             "nombre_articulo": "CREMA QUESADA",
             "precio": 6421.1312,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 9.6
@@ -1062,7 +1070,7 @@
         "362": {
             "nombre_articulo": "SALSA CHEDDAR SACHET",
             "precio": 4265.7098,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
@@ -1211,16 +1219,16 @@
         },
         "335": {
             "nombre_articulo": "PECHERA DON LUIS",
-            "precio": 13176.246599999999,
-            "modificado": false,
+            "precio": 13176.9242,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 500.0
         },
         "336": {
             "nombre_articulo": "LONGA CALABRESA DON LUIS",
-            "precio": 13176.246599999999,
-            "modificado": false,
+            "precio": 13176.9242,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 500.0
