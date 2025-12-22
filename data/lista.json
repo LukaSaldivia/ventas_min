@@ -1,5 +1,5 @@
 {
-    "FECHA": "12-12-2025",
+    "FECHA": "22-12-2025",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X500",
@@ -190,10 +190,10 @@
         "10": {
             "nombre_articulo": "BONDIOLA EMEZETA",
             "precio": 16675.9417,
-            "modificado": false,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "K",
-            "peso_promedio": 2.0
+            "peso_promedio": 1.9
         },
         "11": {
             "nombre_articulo": "PANCETA AHUM C/C EMEZETA",
@@ -222,7 +222,7 @@
         "14": {
             "nombre_articulo": "SALCHICHON C/JAMON EMEZETA",
             "precio": 4368.1847,
-            "modificado": true,
+            "modificado": false,
             "factor": "7",
             "unidad_kilo": "K",
             "peso_promedio": 3.1
@@ -230,7 +230,7 @@
         "15": {
             "nombre_articulo": "SALCHICHON PRIMAVERA EMEZETA",
             "precio": 4368.1847,
-            "modificado": true,
+            "modificado": false,
             "factor": "7",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
@@ -238,7 +238,7 @@
         "16": {
             "nombre_articulo": "MORTADELA EMEZETA",
             "precio": 4879.6759,
-            "modificado": true,
+            "modificado": false,
             "factor": "7",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
@@ -312,7 +312,7 @@
         "32": {
             "nombre_articulo": "MORTADELA BOCHA CALCHAQUI",
             "precio": 8740.3019,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 5.7
@@ -320,7 +320,7 @@
         "33": {
             "nombre_articulo": "MORTADELA CAÑON CALCHAQUI",
             "precio": 7470.515799999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
@@ -343,7 +343,7 @@
         },
         "36": {
             "nombre_articulo": "MORTADELA GIG. CALCHAQUI",
-            "precio": 9525.0232,
+            "precio": 9605.923799999999,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
@@ -352,7 +352,7 @@
         "38": {
             "nombre_articulo": "MORTADELA C/PIST CALCHAQUI",
             "precio": 13845.158800000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
@@ -676,7 +676,7 @@
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
             "precio": 8436.241,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
@@ -1069,8 +1069,8 @@
         },
         "147": {
             "nombre_articulo": "QUESO AZUL 1/2 EMPERADOR",
-            "precio": 11228.9089,
-            "modificado": false,
+            "precio": 11385.8338,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
@@ -1142,7 +1142,7 @@
         "447": {
             "nombre_articulo": "CREMA X 5 QUESADA",
             "precio": 6626.9885,
-            "modificado": false,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
@@ -1234,7 +1234,7 @@
         "124": {
             "nombre_articulo": "PALETA P/EMP.W",
             "precio": 2541.2541,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
@@ -1245,7 +1245,7 @@
             "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
-            "peso_promedio": 4.5
+            "peso_promedio": 5.7
         }
     },
     "Don Luis": {
@@ -1286,7 +1286,7 @@
         "461": {
             "nombre_articulo": "PANCETA AHUMADA LOPARDO",
             "precio": 11414.873800000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.6
@@ -1326,7 +1326,7 @@
         "506": {
             "nombre_articulo": "CASERITA LOPARDO",
             "precio": 11960.2208,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.1
