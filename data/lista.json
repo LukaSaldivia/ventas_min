@@ -1,5 +1,5 @@
 {
-    "FECHA": "22-12-2025",
+    "FECHA": "26-12-2025",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X500",
@@ -182,7 +182,7 @@
         "9": {
             "nombre_articulo": "BASTON EMEZETA",
             "precio": 11414.8617,
-            "modificado": true,
+            "modificado": false,
             "factor": "15",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
@@ -190,7 +190,7 @@
         "10": {
             "nombre_articulo": "BONDIOLA EMEZETA",
             "precio": 16675.9417,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "K",
             "peso_promedio": 1.9
@@ -344,7 +344,7 @@
         "36": {
             "nombre_articulo": "MORTADELA GIG. CALCHAQUI",
             "precio": 9605.923799999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 25.0
@@ -352,10 +352,10 @@
         "38": {
             "nombre_articulo": "MORTADELA C/PIST CALCHAQUI",
             "precio": 13845.158800000001,
-            "modificado": false,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
-            "peso_promedio": 4.5
+            "peso_promedio": 5.0
         },
         "473": {
             "nombre_articulo": "LECHE LARGA VIDA ILOLAY",
@@ -755,8 +755,8 @@
         },
         "400": {
             "nombre_articulo": "BONDIOLA PALADINI",
-            "precio": 27479.523499999996,
-            "modificado": false,
+            "precio": 28707.564599999998,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
@@ -1070,7 +1070,7 @@
         "147": {
             "nombre_articulo": "QUESO AZUL 1/2 EMPERADOR",
             "precio": 11385.8338,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
@@ -1142,7 +1142,7 @@
         "447": {
             "nombre_articulo": "CREMA X 5 QUESADA",
             "precio": 6626.9885,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
@@ -1242,7 +1242,7 @@
         "427": {
             "nombre_articulo": "PALETA DE CERDO W",
             "precio": 4245.756899999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.7
@@ -1302,7 +1302,7 @@
         "490": {
             "nombre_articulo": "PALETA COCIDA DON SILVIO",
             "precio": 5110.9553000000005,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
