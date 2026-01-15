@@ -4,7 +4,7 @@
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
             "precio": 5986.7896,
-            "modificado": false,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -302,7 +302,7 @@
         "402": {
             "nombre_articulo": "BARRIL MZ",
             "precio": 6807.5326000000005,
-            "modificado": false,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
