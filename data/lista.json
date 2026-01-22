@@ -1,5 +1,5 @@
 {
-    "FECHA": "19-01-2026",
+    "FECHA": "22-01-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -546,7 +546,7 @@
         "451": {
             "nombre_articulo": "BATATA CON CHOCOLATE X 700",
             "precio": 4059.7557,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -554,7 +554,7 @@
         "452": {
             "nombre_articulo": "BATATA VLLA.LATA X 700",
             "precio": 4059.7557,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -562,7 +562,7 @@
         "453": {
             "nombre_articulo": "MEMBRILLO LATA X 700",
             "precio": 5045.022399999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -699,8 +699,8 @@
     "Paladini": {
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
-            "precio": 8327.0627,
-            "modificado": false,
+            "precio": 8765.3247,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
@@ -739,7 +739,7 @@
         },
         "340": {
             "nombre_articulo": "VIENA X 6 PALDINI",
-            "precio": 1731.8125,
+            "precio": 1727.154,
             "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
@@ -747,8 +747,8 @@
         },
         "357": {
             "nombre_articulo": "LEBERWURST X 250 GRS.",
-            "precio": 2024.5599,
-            "modificado": false,
+            "precio": 2137.0294,
+            "modificado": true,
             "factor": "26",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -772,15 +772,15 @@
         "399": {
             "nombre_articulo": "MILAN FELA",
             "precio": 12115.7179,
-            "modificado": false,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.2
         },
         "400": {
             "nombre_articulo": "BONDIOLA PALADINI",
-            "precio": 25376.7371,
-            "modificado": false,
+            "precio": 26504.6023,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
@@ -795,8 +795,8 @@
         },
         "502": {
             "nombre_articulo": "QUESO DE CERDO PALADINI",
-            "precio": 7567.703,
-            "modificado": false,
+            "precio": 7633.526999999999,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -883,8 +883,8 @@
         },
         "535": {
             "nombre_articulo": "EMPANADAS JAMON Y QUESO",
-            "precio": 4552.3951,
-            "modificado": false,
+            "precio": 4861.7437,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -899,8 +899,8 @@
         },
         "537": {
             "nombre_articulo": "EMPANADAS ESPIN.Y QUESO",
-            "precio": 4552.3951,
-            "modificado": false,
+            "precio": 4861.7437,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -915,8 +915,8 @@
         },
         "544": {
             "nombre_articulo": "SALCHICHON TRIPLE PALADINI",
-            "precio": 8185.7105,
-            "modificado": false,
+            "precio": 8256.8948,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
@@ -939,8 +939,8 @@
         },
         "552": {
             "nombre_articulo": "MORTADELA PISTACHO PALADINI",
-            "precio": 14706.4126,
-            "modificado": false,
+            "precio": 14831.030499999999,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.5
