@@ -1,5 +1,5 @@
 {
-    "FECHA": "30-01-2026",
+    "FECHA": "03-02-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -949,160 +949,160 @@
     "Quesada": {
         "59": {
             "nombre_articulo": "BARRA QUESADA",
-            "precio": 8411.6054,
-            "modificado": false,
+            "precio": 8714.601499999999,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
         },
         "60": {
             "nombre_articulo": "CREMOSO QUESADA",
-            "precio": 6469.1319,
-            "modificado": false,
+            "precio": 6700.2782,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.5
         },
         "61": {
             "nombre_articulo": "CRIOLLO QUESADA",
-            "precio": 10460.232199999999,
-            "modificado": false,
+            "precio": 11191.9192,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
         },
         "62": {
             "nombre_articulo": "FONTINA QUESADA",
-            "precio": 10925.8402,
-            "modificado": false,
+            "precio": 11689.205,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 8.7
         },
         "63": {
             "nombre_articulo": "GOUDA QUESADA",
-            "precio": 9025.486799999999,
-            "modificado": false,
+            "precio": 9656.2961,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
         },
         "64": {
             "nombre_articulo": "MANTECA X100GR CLUCELAT",
-            "precio": 946.4014999999999,
-            "modificado": false,
+            "precio": 1021.9175999999999,
+            "modificado": true,
             "factor": "60",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "65": {
             "nombre_articulo": "MANTECA X200GR CLUCELAT",
-            "precio": 1892.7909,
-            "modificado": false,
+            "precio": 2043.8351999999998,
+            "modificado": true,
             "factor": "30",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "66": {
             "nombre_articulo": "MUZZA CILINDRO QUESADA",
-            "precio": 6831.4059,
-            "modificado": false,
+            "precio": 7295.5135,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 5.6
         },
         "67": {
             "nombre_articulo": "PATEGRAS QUESADA",
-            "precio": 10460.232199999999,
-            "modificado": false,
+            "precio": 11191.9192,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
         },
         "68": {
             "nombre_articulo": "POR SALUT QUESADA",
-            "precio": 7293.6259,
-            "modificado": false,
+            "precio": 7787.342199999999,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.2
         },
         "69": {
             "nombre_articulo": "POR SALUT S/S QUESADA",
-            "precio": 7583.8686,
-            "modificado": false,
+            "precio": 8098.8446,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.2
         },
         "75": {
             "nombre_articulo": "REGGIANO QUESADA",
-            "precio": 13465.1099,
-            "modificado": false,
+            "precio": 14405.207299999998,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.4
         },
         "76": {
             "nombre_articulo": "ROMANITO QUESADA",
-            "precio": 12604.2675,
-            "modificado": false,
+            "precio": 13487.131899999998,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
         },
         "77": {
             "nombre_articulo": "SARDO QUESADA",
-            "precio": 12133.2145,
-            "modificado": false,
+            "precio": 12984.3648,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
         },
         "78": {
             "nombre_articulo": "CREMA QUESADA",
-            "precio": 6361.6718,
-            "modificado": false,
+            "precio": 6871.0455,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 9.6
         },
         "79": {
             "nombre_articulo": "PARMESANO QUESADA",
-            "precio": 14250.1821,
-            "modificado": false,
+            "precio": 15246.786499999998,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 7.5
         },
         "133": {
             "nombre_articulo": "MUZZA BARRA QUESADA",
-            "precio": 8411.6054,
-            "modificado": false,
+            "precio": 8984.128999999999,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.7
         },
         "146": {
             "nombre_articulo": "CREMOSO 1/2 QUESADA",
-            "precio": 6578.7821,
-            "modificado": false,
+            "precio": 6816.898,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.5
         },
         "147": {
             "nombre_articulo": "QUESO AZUL 1/2 EMPERADOR",
-            "precio": 12178.4685,
-            "modificado": false,
+            "precio": 12234.068,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
         },
         "154": {
             "nombre_articulo": "MANTECA X 2.5 KG CLUCELAT",
-            "precio": 23659.5656,
-            "modificado": false,
+            "precio": 25547.94,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1125,8 +1125,8 @@
         },
         "315": {
             "nombre_articulo": "PARMESANO MITAD",
-            "precio": 14598.0329,
-            "modificado": false,
+            "precio": 15738.627299999998,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 7.5
@@ -1141,8 +1141,8 @@
         },
         "383": {
             "nombre_articulo": "SABORIZADO QUESADA X 700",
-            "precio": 10996.879299999999,
-            "modificado": false,
+            "precio": 11858.6171,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.3
@@ -1165,16 +1165,16 @@
         },
         "447": {
             "nombre_articulo": "CREMA X 5 QUESADA",
-            "precio": 6626.9885,
-            "modificado": false,
+            "precio": 7157.8034,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
         },
         "484": {
             "nombre_articulo": "SARDO FRESCO QUESADA",
-            "precio": 9959.8125,
-            "modificado": false,
+            "precio": 10653.9774,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
@@ -1283,7 +1283,7 @@
         },
         "335": {
             "nombre_articulo": "PECHERA DON LUIS",
-            "precio": 13666.0425,
+            "precio": 13931.395499999999,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1291,7 +1291,7 @@
         },
         "336": {
             "nombre_articulo": "LONGA CALABRESA DON LUIS",
-            "precio": 13666.0425,
+            "precio": 13931.395499999999,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1299,7 +1299,7 @@
         },
         "337": {
             "nombre_articulo": "SALAME DON LUIS",
-            "precio": 14064.084099999998,
+            "precio": 14385.169699999999,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
@@ -1318,7 +1318,7 @@
         "490": {
             "nombre_articulo": "PALETA COCIDA DON SILVIO",
             "precio": 5793.927699999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
@@ -1330,14 +1330,6 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
-        },
-        "499": {
-            "nombre_articulo": "SALAMIN LOPARDO",
-            "precio": 11981.613599999999,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 0.6
         },
         "506": {
             "nombre_articulo": "CASERITA LOPARDO",
