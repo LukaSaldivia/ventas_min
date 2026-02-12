@@ -1,5 +1,5 @@
 {
-    "FECHA": "11-02-2026",
+    "FECHA": "12-02-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -376,7 +376,7 @@
         "473": {
             "nombre_articulo": "LECHE LARGA VIDA ILOLAY",
             "precio": 1581.5304999999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.5
@@ -1109,8 +1109,8 @@
         },
         "282": {
             "nombre_articulo": "BARRA SABORIZADA QUESADA",
-            "precio": 10996.879299999999,
-            "modificado": false,
+            "precio": 11772.368299999998,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.2
