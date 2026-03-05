@@ -1,5 +1,5 @@
 {
-    "FECHA": "04-03-2026",
+    "FECHA": "05-03-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -692,7 +692,7 @@
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
             "precio": 9531.8234,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
@@ -700,7 +700,7 @@
         "50": {
             "nombre_articulo": "MORTADELA FAM. PALADINI",
             "precio": 3102.2101,
-            "modificado": true,
+            "modificado": false,
             "factor": "16",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -708,7 +708,7 @@
         "51": {
             "nombre_articulo": "MORTADELA X 2.5KG PALADINI",
             "precio": 10392.1092,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
@@ -716,7 +716,7 @@
         "157": {
             "nombre_articulo": "VIENA X 6 FELA",
             "precio": 1076.5854,
-            "modificado": true,
+            "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -724,7 +724,7 @@
         "266": {
             "nombre_articulo": "PALETA PALADINI X6KG",
             "precio": 12876.2634,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
@@ -732,7 +732,7 @@
         "340": {
             "nombre_articulo": "VIENA X 6 PALADINI",
             "precio": 1858.2817,
-            "modificado": true,
+            "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -740,7 +740,7 @@
         "357": {
             "nombre_articulo": "LEBERWURST X 250 GRS.",
             "precio": 2137.0899,
-            "modificado": true,
+            "modificado": false,
             "factor": "26",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -748,7 +748,7 @@
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
             "precio": 12273.2478,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
@@ -756,7 +756,7 @@
         "398": {
             "nombre_articulo": "MILAN TIVOLI",
             "precio": 10230.3927,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
@@ -764,7 +764,7 @@
         "399": {
             "nombre_articulo": "MILAN FELA",
             "precio": 12787.9939,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.2
@@ -772,7 +772,7 @@
         "400": {
             "nombre_articulo": "BONDIOLA PALADINI",
             "precio": 27784.576599999997,
-            "modificado": true,
+            "modificado": false,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
@@ -908,7 +908,7 @@
         "550": {
             "nombre_articulo": "CRUDO BLOQUE PALADINI",
             "precio": 37523.7214,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
