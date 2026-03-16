@@ -1,5 +1,5 @@
 {
-    "FECHA": "13-03-2026",
+    "FECHA": "16-03-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -1046,7 +1046,7 @@
         "147": {
             "nombre_articulo": "QUESO AZUL 1/2 EMPERADOR",
             "precio": 12901.782299999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
@@ -1253,16 +1253,16 @@
     "Lopardo": {
         "490": {
             "nombre_articulo": "PALETA COCIDA DON SILVIO",
-            "precio": 6036.665799999999,
-            "modificado": false,
+            "precio": 6140.6169,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
         },
         "496": {
             "nombre_articulo": "QUESO DE CERDO LOPARDO",
-            "precio": 6958.0566,
-            "modificado": false,
+            "precio": 4325.1208,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
@@ -1274,6 +1274,14 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.1
+        },
+        "590": {
+            "nombre_articulo": "MORCILLA AL VACIO",
+            "precio": 4836.007,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 4.6
         }
     },
     "Arrodul": {
