@@ -1,5 +1,5 @@
 {
-    "FECHA": "19-03-2026",
+    "FECHA": "26-03-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -351,8 +351,8 @@
         },
         "38": {
             "nombre_articulo": "MORTADELA C/PIST CALCHAQUI",
-            "precio": 15401.3761,
-            "modificado": false,
+            "precio": 15684.6129,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
@@ -360,7 +360,7 @@
         "473": {
             "nombre_articulo": "LECHE LARGA VIDA ILOLAY",
             "precio": 1934.7658,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.5
@@ -368,7 +368,7 @@
         "591": {
             "nombre_articulo": "PALETA 214 CHICA",
             "precio": 11014.146,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -376,7 +376,7 @@
         "592": {
             "nombre_articulo": "FIAMBRE DE POLLO 214",
             "precio": 15552.492999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
@@ -384,7 +384,7 @@
         "593": {
             "nombre_articulo": "SALAMIN GRUESO 214",
             "precio": 21105.328199999996,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.5
@@ -392,7 +392,7 @@
         "594": {
             "nombre_articulo": "SALAMIN FINO 214",
             "precio": 21105.328199999996,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.5
@@ -402,7 +402,7 @@
         "39": {
             "nombre_articulo": "DULCE DE MEMBRILLO",
             "precio": 13010.7549,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
@@ -410,7 +410,7 @@
         "40": {
             "nombre_articulo": "DULCE DE BATATA",
             "precio": 10564.473699999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
@@ -418,7 +418,7 @@
         "41": {
             "nombre_articulo": "DULCE DE BATATA C/CHOC",
             "precio": 10564.473699999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 500.0
@@ -426,7 +426,7 @@
         "155": {
             "nombre_articulo": "POSTRE DCE.LECHE C/CHOC.",
             "precio": 30410.0588,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -679,14 +679,6 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
-        "534": {
-            "nombre_articulo": "COPOS AZUC. NUTRI FLAKES X 400",
-            "precio": 1867.1509999999998,
-            "modificado": false,
-            "factor": "24",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
         "549": {
             "nombre_articulo": "MANTECOL X 404 GRS.",
             "precio": 6102.1268,
@@ -715,16 +707,16 @@
     "Paladini": {
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
-            "precio": 9842.7208,
-            "modificado": false,
+            "precio": 9933.857999999998,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
         },
         "50": {
             "nombre_articulo": "MORTADELA FAM. PALADINI",
-            "precio": 3160.8467,
-            "modificado": false,
+            "precio": 3219.3865,
+            "modificado": true,
             "factor": "16",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -739,8 +731,8 @@
         },
         "157": {
             "nombre_articulo": "VIENA X 6 FELA",
-            "precio": 1076.5854,
-            "modificado": false,
+            "precio": 1115.1480999999999,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -755,16 +747,16 @@
         },
         "340": {
             "nombre_articulo": "VIENA X 6 PALADINI",
-            "precio": 1934.2576,
-            "modificado": false,
+            "precio": 1952.6859,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "357": {
             "nombre_articulo": "LEBERWURST X 250 GRS.",
-            "precio": 2220.6283,
-            "modificado": false,
+            "precio": 2241.1983,
+            "modificado": true,
             "factor": "26",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -779,16 +771,16 @@
         },
         "398": {
             "nombre_articulo": "MILAN TIVOLI",
-            "precio": 10631.144699999999,
-            "modificado": false,
+            "precio": 10729.5782,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
         },
         "399": {
             "nombre_articulo": "MILAN FELA",
-            "precio": 13289.067000000001,
-            "modificado": false,
+            "precio": 13412.1361,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.2
@@ -803,8 +795,8 @@
         },
         "502": {
             "nombre_articulo": "QUESO DE CERDO PALADINI",
-            "precio": 8068.812399999999,
-            "modificado": false,
+            "precio": 8143.590399999999,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -825,14 +817,6 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
-        "522": {
-            "nombre_articulo": "COSTILLITAS CONG.PALADINI",
-            "precio": 8511.5514,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 2.5
-        },
         "523": {
             "nombre_articulo": "MEDALLON FELA X 4",
             "precio": 2463.0881,
@@ -851,8 +835,8 @@
         },
         "526": {
             "nombre_articulo": "HAMB. PALADINI X 2 UNID.",
-            "precio": 2669.9497,
-            "modificado": false,
+            "precio": 2694.67,
+            "modificado": true,
             "factor": "30",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -907,8 +891,8 @@
         },
         "544": {
             "nombre_articulo": "SALCHICHON TRIPLE PALADINI",
-            "precio": 8653.8232,
-            "modificado": false,
+            "precio": 8808.630599999999,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
@@ -1133,16 +1117,16 @@
         },
         "435": {
             "nombre_articulo": "PROVOLETA QUESADA",
-            "precio": 12604.2675,
-            "modificado": false,
+            "precio": 14931.4,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
         },
         "436": {
             "nombre_articulo": "RICOTTA QUESADA",
-            "precio": 3166.9572000000003,
-            "modificado": false,
+            "precio": 3934.1456,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
@@ -1234,7 +1218,7 @@
         "124": {
             "nombre_articulo": "PALETA P/EMP.W",
             "precio": 2860.1617,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.8
@@ -1242,7 +1226,7 @@
         "427": {
             "nombre_articulo": "PALETA DE CERDO W",
             "precio": 5139.208799999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.7
@@ -1286,7 +1270,7 @@
         "490": {
             "nombre_articulo": "PALETA COCIDA DON SILVIO",
             "precio": 6140.6169,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
@@ -1294,23 +1278,15 @@
         "496": {
             "nombre_articulo": "QUESO DE CERDO LOPARDO",
             "precio": 4325.1208,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
         },
-        "506": {
-            "nombre_articulo": "CASERITA LOPARDO",
-            "precio": 11960.2208,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 1.1
-        },
         "590": {
             "nombre_articulo": "MORCILLA AL VACIO",
             "precio": 4836.007,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.6
