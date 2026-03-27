@@ -1,5 +1,5 @@
 {
-    "FECHA": "26-03-2026",
+    "FECHA": "27-03-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -763,8 +763,8 @@
         },
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
-            "precio": 13593.5877,
-            "modificado": false,
+            "precio": 12824.4149,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
