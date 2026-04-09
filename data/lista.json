@@ -1,5 +1,5 @@
 {
-    "FECHA": "01-04-2026",
+    "FECHA": "09-04-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -275,14 +275,6 @@
             "unidad_kilo": "K",
             "peso_promedio": 4.0
         },
-        "386": {
-            "nombre_articulo": "PERNIL MINI EMEZETA",
-            "precio": 6752.1025,
-            "modificado": false,
-            "factor": "6",
-            "unidad_kilo": "K",
-            "peso_promedio": 4.0
-        },
         "395": {
             "nombre_articulo": "PALETA EMEZETA GRANDE",
             "precio": 7029.736999999999,
@@ -298,14 +290,6 @@
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
-        },
-        "402": {
-            "nombre_articulo": "BARRIL MZ",
-            "precio": 6807.5326000000005,
-            "modificado": false,
-            "factor": "4",
-            "unidad_kilo": "K",
-            "peso_promedio": 5.0
         },
         "417": {
             "nombre_articulo": "BONDIOLA AL VACIO 1/2 MZ",
@@ -365,14 +349,6 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.5
         },
-        "591": {
-            "nombre_articulo": "PALETA 214 CHICA",
-            "precio": 11014.146,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 3.0
-        },
         "592": {
             "nombre_articulo": "FIAMBRE DE POLLO 214",
             "precio": 15552.492999999999,
@@ -380,22 +356,6 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
-        },
-        "593": {
-            "nombre_articulo": "SALAMIN GRUESO 214",
-            "precio": 21105.328199999996,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 2.5
-        },
-        "594": {
-            "nombre_articulo": "SALAMIN FINO 214",
-            "precio": 21105.328199999996,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 2.5
         }
     },
     "Dulcor": {
@@ -450,7 +410,7 @@
         "294": {
             "nombre_articulo": "BATATA LATA VLLA.",
             "precio": 13968.590900000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -458,7 +418,7 @@
         "295": {
             "nombre_articulo": "BATATA LATA C/CHOC.",
             "precio": 13968.590900000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -466,7 +426,7 @@
         "296": {
             "nombre_articulo": "MEMBRILLO LATA",
             "precio": 17173.3364,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -474,7 +434,7 @@
         "309": {
             "nombre_articulo": "BATATA C/GUINDAS",
             "precio": 22910.345699999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -623,14 +583,6 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
-        "488": {
-            "nombre_articulo": "BATATA CAJON ESNAOLA",
-            "precio": 10015.436199999998,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
         "500": {
             "nombre_articulo": "BATATA CON CHOC.X 500",
             "precio": 1452.8591,
@@ -652,14 +604,6 @@
             "precio": 2122.2432,
             "modificado": false,
             "factor": "40",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "514": {
-            "nombre_articulo": "MANTECOL C/ALM.X 3.4 KG",
-            "precio": 62010.1284,
-            "modificado": false,
-            "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
@@ -707,15 +651,15 @@
     "Paladini": {
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
-            "precio": 9933.857999999998,
-            "modificado": false,
+            "precio": 10338.796599999998,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
         },
         "50": {
             "nombre_articulo": "MORTADELA FAM. PALADINI",
-            "precio": 3219.3865,
+            "precio": 3248.6564000000003,
             "modificado": false,
             "factor": "16",
             "unidad_kilo": "U",
@@ -723,39 +667,39 @@
         },
         "51": {
             "nombre_articulo": "MORTADELA X 2.5KG PALADINI",
-            "precio": 10705.8622,
-            "modificado": false,
+            "precio": 11003.256,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
         },
         "157": {
             "nombre_articulo": "VIENA X 6 FELA",
-            "precio": 1115.1480999999999,
-            "modificado": false,
+            "precio": 1213.5331999999999,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "266": {
             "nombre_articulo": "PALETA PALADINI X6KG",
-            "precio": 12876.2634,
-            "modificado": false,
+            "precio": 13228.095099999999,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
         },
         "340": {
             "nombre_articulo": "VIENA X 6 PALADINI",
-            "precio": 1952.6859,
-            "modificado": false,
+            "precio": 2050.9016,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "357": {
             "nombre_articulo": "LEBERWURST X 250 GRS.",
-            "precio": 2241.1983,
+            "precio": 2261.7562,
             "modificado": false,
             "factor": "26",
             "unidad_kilo": "U",
@@ -763,7 +707,7 @@
         },
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
-            "precio": 12824.4149,
+            "precio": 13845.3161,
             "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
@@ -771,7 +715,7 @@
         },
         "398": {
             "nombre_articulo": "MILAN TIVOLI",
-            "precio": 10729.5782,
+            "precio": 10828.0238,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
@@ -779,7 +723,7 @@
         },
         "399": {
             "nombre_articulo": "MILAN FELA",
-            "precio": 13412.1361,
+            "precio": 13535.181,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
@@ -795,7 +739,7 @@
         },
         "502": {
             "nombre_articulo": "QUESO DE CERDO PALADINI",
-            "precio": 8143.590399999999,
+            "precio": 8218.2958,
             "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
@@ -891,16 +835,16 @@
         },
         "544": {
             "nombre_articulo": "SALCHICHON TRIPLE PALADINI",
-            "precio": 8808.630599999999,
-            "modificado": false,
+            "precio": 8889.4465,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
         },
         "550": {
             "nombre_articulo": "CRUDO BLOQUE PALADINI",
-            "precio": 36889.9113,
-            "modificado": false,
+            "precio": 37207.9114,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -908,7 +852,7 @@
         "552": {
             "nombre_articulo": "MORTADELA PISTACHO PALADINI",
             "precio": 15411.2134,
-            "modificado": false,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.5
@@ -917,8 +861,8 @@
     "Quesada": {
         "59": {
             "nombre_articulo": "BARRA QUESADA",
-            "precio": 8976.9416,
-            "modificado": true,
+            "precio": 9067.316499999999,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
@@ -926,7 +870,7 @@
         "60": {
             "nombre_articulo": "CREMOSO QUESADA",
             "precio": 6907.514899999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.5
@@ -981,7 +925,7 @@
         },
         "67": {
             "nombre_articulo": "PATEGRAS QUESADA",
-            "precio": 11191.9192,
+            "precio": 11399.1801,
             "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
@@ -990,7 +934,7 @@
         "68": {
             "nombre_articulo": "POR SALUT QUESADA",
             "precio": 7787.342199999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.2
@@ -1054,7 +998,7 @@
         "146": {
             "nombre_articulo": "CREMOSO 1/2 QUESADA",
             "precio": 7027.7405,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.5
@@ -1070,7 +1014,7 @@
         "154": {
             "nombre_articulo": "MANTECA X 2.5 KG CLUCELAT",
             "precio": 25547.94,
-            "modificado": false,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1091,14 +1035,6 @@
             "unidad_kilo": "K",
             "peso_promedio": 4.0
         },
-        "315": {
-            "nombre_articulo": "PARMESANO MITAD",
-            "precio": 15738.627299999998,
-            "modificado": false,
-            "factor": "2",
-            "unidad_kilo": "K",
-            "peso_promedio": 7.5
-        },
         "362": {
             "nombre_articulo": "SALSA CHEDDAR SACHET",
             "precio": 4149.3683,
@@ -1118,7 +1054,7 @@
         "435": {
             "nombre_articulo": "PROVOLETA QUESADA",
             "precio": 14931.4,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
@@ -1151,56 +1087,48 @@
     "Cris Jor": {
         "109": {
             "nombre_articulo": "MANI CROCANTE CLASICO",
-            "precio": 4634.820299999999,
-            "modificado": false,
+            "precio": 4701.0315,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "110": {
             "nombre_articulo": "MANI CROCANTE SABOR JAMON",
-            "precio": 4634.820299999999,
-            "modificado": false,
+            "precio": 4701.0315,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "111": {
             "nombre_articulo": "MANI CROCANTE SABOR SALAME",
-            "precio": 4634.820299999999,
-            "modificado": false,
+            "precio": 4701.0315,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "112": {
             "nombre_articulo": "MANI CROCANTE SABOR PIZZA",
-            "precio": 4634.820299999999,
-            "modificado": false,
+            "precio": 3376.7953999999995,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "113": {
             "nombre_articulo": "MANI CROCANTE SABOR QUESO",
-            "precio": 4634.820299999999,
-            "modificado": false,
-            "factor": "10",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "114": {
-            "nombre_articulo": "MANI CROCANTE SABOR PROVENZAL",
-            "precio": 4634.820299999999,
-            "modificado": false,
+            "precio": 4701.0315,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "132": {
             "nombre_articulo": "MANI REPELADO CRIS JOR",
-            "precio": 4611.1527,
-            "modificado": false,
+            "precio": 4682.095,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
@@ -1233,14 +1161,6 @@
         }
     },
     "Don Luis": {
-        "334": {
-            "nombre_articulo": "SALAME COLORADO DON LUIS",
-            "precio": 11450.0727,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 500.0
-        },
         "335": {
             "nombre_articulo": "PECHERA DON LUIS",
             "precio": 14731.205499999998,
@@ -1252,14 +1172,6 @@
         "336": {
             "nombre_articulo": "LONGA CALABRESA DON LUIS",
             "precio": 14731.205499999998,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 500.0
-        },
-        "337": {
-            "nombre_articulo": "SALAME DON LUIS",
-            "precio": 15132.9618,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
