@@ -1,5 +1,5 @@
 {
-    "FECHA": "09-04-2026",
+    "FECHA": "11-04-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -651,7 +651,7 @@
     "Paladini": {
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
-            "precio": 10338.796599999998,
+            "precio": 10201.691499999999,
             "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
@@ -675,7 +675,7 @@
         },
         "157": {
             "nombre_articulo": "VIENA X 6 FELA",
-            "precio": 1213.5331999999999,
+            "precio": 1210.2299,
             "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
@@ -707,7 +707,7 @@
         },
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
-            "precio": 13845.3161,
+            "precio": 13476.6775,
             "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
