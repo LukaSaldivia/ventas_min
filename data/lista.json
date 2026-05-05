@@ -1,5 +1,5 @@
 {
-    "FECHA": "25-04-2026",
+    "FECHA": "05-05-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -214,7 +214,7 @@
         "13": {
             "nombre_articulo": "PANCETA SALADA EMEZETA",
             "precio": 14185.3503,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
@@ -353,24 +353,24 @@
     "Dulcor": {
         "39": {
             "nombre_articulo": "DULCE DE MEMBRILLO",
-            "precio": 13010.7549,
-            "modificado": false,
+            "precio": 13722.1139,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
         },
         "40": {
             "nombre_articulo": "DULCE DE BATATA",
-            "precio": 10564.473699999999,
-            "modificado": false,
+            "precio": 11142.0914,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
         },
         "41": {
             "nombre_articulo": "DULCE DE BATATA C/CHOC",
-            "precio": 10564.473699999999,
-            "modificado": false,
+            "precio": 11142.0914,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 500.0
@@ -378,7 +378,7 @@
         "155": {
             "nombre_articulo": "POSTRE DCE.LECHE C/CHOC.",
             "precio": 32638.9998,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -402,7 +402,7 @@
         "294": {
             "nombre_articulo": "BATATA LATA VLLA.",
             "precio": 14867.4999,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -410,7 +410,7 @@
         "295": {
             "nombre_articulo": "BATATA LATA C/CHOC.",
             "precio": 14867.4999,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -700,7 +700,7 @@
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
             "precio": 13476.6775,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
@@ -844,7 +844,7 @@
         "565": {
             "nombre_articulo": "CRUDO ESPUÑA",
             "precio": 46280.152599999994,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.7
@@ -1054,10 +1054,10 @@
         "436": {
             "nombre_articulo": "RICOTTA QUESADA",
             "precio": 3706.3509999999997,
-            "modificado": false,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
-            "peso_promedio": 5.0
+            "peso_promedio": 4.3
         },
         "447": {
             "nombre_articulo": "CREMA X 5 QUESADA",
@@ -1095,7 +1095,7 @@
         },
         "112": {
             "nombre_articulo": "MANI CROCANTE SABOR PIZZA",
-            "precio": 3376.7953999999995,
+            "precio": 4701.0315,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -1130,7 +1130,7 @@
         "123": {
             "nombre_articulo": "BONDIOLA W",
             "precio": 19286.4078,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
