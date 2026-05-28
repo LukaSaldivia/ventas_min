@@ -1,5 +1,5 @@
 {
-    "FECHA": "21-05-2026",
+    "FECHA": "28-05-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -99,8 +99,8 @@
         },
         "458": {
             "nombre_articulo": "CHEESTICK QUESO X 300",
-            "precio": 2721.3263,
-            "modificado": false,
+            "precio": 3019.9301,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -209,7 +209,7 @@
             "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
-            "peso_promedio": 2.0
+            "peso_promedio": 1.9
         },
         "14": {
             "nombre_articulo": "SALCHICHON C/JAMON EMEZETA",
@@ -336,7 +336,7 @@
         "473": {
             "nombre_articulo": "LECHE LARGA VIDA ILOLAY",
             "precio": 2329.0926999999997,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.5
@@ -372,14 +372,6 @@
             "precio": 32638.9998,
             "modificado": false,
             "factor": "4",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "280": {
-            "nombre_articulo": "MERMELADA CORMILLOT DURAZNO",
-            "precio": 1470.7792,
-            "modificado": false,
-            "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
@@ -425,47 +417,47 @@
         },
         "408": {
             "nombre_articulo": "MERMELADA POTE DURAZNO",
-            "precio": 1125.2516,
-            "modificado": false,
+            "precio": 957.4487999999999,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "421": {
             "nombre_articulo": "MERMELADA FRUTILLA DULCOR FRASCO",
-            "precio": 1924.2267,
-            "modificado": false,
+            "precio": 2360.5164,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "422": {
             "nombre_articulo": "MERMELADA HIGO DULCOR FRASCO",
-            "precio": 1706.2331,
-            "modificado": false,
+            "precio": 2360.5164,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "423": {
             "nombre_articulo": "MERMELADA DURAZNO DULCOR FRASCO",
-            "precio": 1504.4292999999998,
-            "modificado": false,
+            "precio": 1845.5525,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "424": {
             "nombre_articulo": "MERMELADA CIRUELA FRASCO DULCOR",
-            "precio": 1491.4701999999997,
-            "modificado": false,
+            "precio": 1845.5525,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "425": {
             "nombre_articulo": "MERMELADA NARANJA DULCOR FRASCO",
-            "precio": 1435.423,
+            "precio": 1502.4933,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
@@ -522,38 +514,6 @@
         "453": {
             "nombre_articulo": "MEMBRILLO LATA X 700",
             "precio": 5234.0123,
-            "modificado": false,
-            "factor": "12",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "454": {
-            "nombre_articulo": "MERMELADA ARANADANO X 390",
-            "precio": 3199.3851999999997,
-            "modificado": false,
-            "factor": "12",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "455": {
-            "nombre_articulo": "MERMELADA ESNAOLA DURAZNO X 390",
-            "precio": 2559.6098,
-            "modificado": false,
-            "factor": "12",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "456": {
-            "nombre_articulo": "MERMELADA FRUTILLA ESNAOLA X 390",
-            "precio": 3199.3851999999997,
-            "modificado": false,
-            "factor": "12",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "457": {
-            "nombre_articulo": "MERMELADA FRUTOS ROJOS X 390",
-            "precio": 3199.3851999999997,
             "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
