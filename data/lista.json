@@ -1,5 +1,5 @@
 {
-    "FECHA": "24-06-2026",
+    "FECHA": "26-06-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -150,7 +150,7 @@
         "6": {
             "nombre_articulo": "PALETA MINI EMEZETA",
             "precio": 7306.6213,
-            "modificado": true,
+            "modificado": false,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 3.5
@@ -190,7 +190,7 @@
         "11": {
             "nombre_articulo": "PANCETA AHUM C/C EMEZETA",
             "precio": 16068.2555,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.5
@@ -206,7 +206,7 @@
         "13": {
             "nombre_articulo": "PANCETA SALADA EMEZETA",
             "precio": 15894.6689,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.9
@@ -296,7 +296,7 @@
         "32": {
             "nombre_articulo": "MORTADELA BOCHA CALCHAQUI",
             "precio": 9411.6099,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 5.7
@@ -644,7 +644,7 @@
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
             "precio": 14535.173400000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
@@ -998,10 +998,10 @@
         "435": {
             "nombre_articulo": "PROVOLETA QUESADA",
             "precio": 15416.0413,
-            "modificado": false,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
-            "peso_promedio": 4.0
+            "peso_promedio": 5.0
         },
         "436": {
             "nombre_articulo": "RICOTTA QUESADA",
