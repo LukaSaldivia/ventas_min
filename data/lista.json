@@ -1,34 +1,34 @@
 {
-    "FECHA": "29-06-2026",
+    "FECHA": "02-07-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
-            "precio": 6644.4851,
-            "modificado": false,
+            "precio": 7374.7927,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "47": {
             "nombre_articulo": "PAPAS CORTE AMERICANO",
-            "precio": 6644.4851,
-            "modificado": false,
+            "precio": 7374.7927,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "48": {
             "nombre_articulo": "PAPAS PAY PEIPO",
-            "precio": 6599.993399999999,
-            "modificado": false,
+            "precio": 7325.4005,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "49": {
             "nombre_articulo": "PALITOS SALADOS PEIPO",
-            "precio": 6307.5243,
-            "modificado": false,
+            "precio": 6733.831499999999,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -51,16 +51,16 @@
         },
         "54": {
             "nombre_articulo": "BOLITAS CROCANTES PEIPO",
-            "precio": 3015.2958,
-            "modificado": false,
+            "precio": 3195.1018,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "55": {
             "nombre_articulo": "PIZZA ROLLS PEIPO",
-            "precio": 2845.1698,
-            "modificado": false,
+            "precio": 3014.1221,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -83,40 +83,40 @@
         },
         "58": {
             "nombre_articulo": "TUBITOS PEIPO",
-            "precio": 3894.9053,
-            "modificado": false,
+            "precio": 4158.1408,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "208": {
             "nombre_articulo": "PAPA CHEDDAR PEIPO X 330",
-            "precio": 5684.8946000000005,
-            "modificado": false,
+            "precio": 6309.7265,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "458": {
             "nombre_articulo": "CHEESTICK QUESO X 300",
-            "precio": 3224.4322,
-            "modificado": false,
+            "precio": 3442.3048,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "511": {
             "nombre_articulo": "CHEESTICK CHEDDAR X265GR",
-            "precio": 3451.0409999999997,
-            "modificado": false,
+            "precio": 3684.7403999999997,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "518": {
             "nombre_articulo": "PALITOS SABOR QUESO X 500",
-            "precio": 6307.5243,
-            "modificado": false,
+            "precio": 6733.831499999999,
+            "modificado": true,
             "factor": "14",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -125,144 +125,144 @@
     "Emezeta": {
         "3": {
             "nombre_articulo": "CRUDO EMEZETA",
-            "precio": 25241.217099999998,
-            "modificado": false,
+            "precio": 26746.4208,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 3.5
         },
         "4": {
             "nombre_articulo": "JAMON NATIVO EMEZETA",
-            "precio": 11512.5692,
-            "modificado": false,
+            "precio": 12199.1111,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 5.5
         },
         "5": {
             "nombre_articulo": "FIAMBRE DE JAMON COCIDO GRANDE",
-            "precio": 7672.1744,
-            "modificado": false,
+            "precio": 8204.949499999999,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
         },
         "6": {
             "nombre_articulo": "PALETA MINI EMEZETA",
-            "precio": 7306.6213,
-            "modificado": false,
+            "precio": 7811.4454,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 3.5
         },
         "7": {
             "nombre_articulo": "LOMO CANADIENSE EMEZETA",
-            "precio": 13864.361499999999,
-            "modificado": false,
+            "precio": 14691.1303,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 2.5
         },
         "8": {
             "nombre_articulo": "MILAN LARGO EMEZETA",
-            "precio": 11196.4688,
-            "modificado": false,
+            "precio": 11864.1468,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
         },
         "9": {
             "nombre_articulo": "BASTON EMEZETA",
-            "precio": 13188.7338,
-            "modificado": false,
+            "precio": 13975.2217,
+            "modificado": true,
             "factor": "15",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
         },
         "10": {
             "nombre_articulo": "BONDIOLA EMEZETA",
-            "precio": 19447.4588,
-            "modificado": false,
+            "precio": 20607.1712,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 1.7
         },
         "11": {
             "nombre_articulo": "PANCETA AHUM C/C EMEZETA",
-            "precio": 16068.2555,
-            "modificado": false,
+            "precio": 17022.3163,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.5
         },
         "12": {
             "nombre_articulo": "PANCETA TIERNIZADA EMEZETA",
-            "precio": 7720.344499999999,
-            "modificado": false,
+            "precio": 8180.7132,
+            "modificado": true,
             "factor": "9",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
         },
         "13": {
             "nombre_articulo": "PANCETA SALADA EMEZETA",
-            "precio": 15894.6689,
-            "modificado": false,
+            "precio": 17022.3163,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.9
         },
         "14": {
             "nombre_articulo": "SALCHICHON C/JAMON EMEZETA",
-            "precio": 4999.8289,
-            "modificado": false,
+            "precio": 5307.5198,
+            "modificado": true,
             "factor": "7",
             "unidad_kilo": "K",
             "peso_promedio": 3.1
         },
         "15": {
             "nombre_articulo": "SALCHICHON PRIMAVERA EMEZETA",
-            "precio": 4999.8289,
-            "modificado": false,
+            "precio": 5307.5198,
+            "modificado": true,
             "factor": "7",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
         },
         "16": {
             "nombre_articulo": "MORTADELA EMEZETA",
-            "precio": 5585.2753,
-            "modificado": false,
+            "precio": 5928.975799999999,
+            "modificado": true,
             "factor": "7",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
         },
         "134": {
             "nombre_articulo": "MILANCITO EMEZETA",
-            "precio": 12858.5248,
-            "modificado": false,
+            "precio": 13625.3139,
+            "modificado": true,
             "factor": "15",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
         },
         "318": {
             "nombre_articulo": "JAMON BOLON 3783",
-            "precio": 7016.4391,
-            "modificado": false,
+            "precio": 7434.8571,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
         },
         "363": {
             "nombre_articulo": "LOMO AHUMADO EMEZETA",
-            "precio": 11864.7518,
-            "modificado": false,
+            "precio": 12572.275099999999,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
         },
         "365": {
             "nombre_articulo": "PALETA CUADRADA EMEZETA",
-            "precio": 7306.6213,
-            "modificado": false,
+            "precio": 7741.701,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
@@ -277,16 +277,16 @@
         },
         "401": {
             "nombre_articulo": "MILAN CORTO MZ",
-            "precio": 11196.4688,
-            "modificado": false,
+            "precio": 11864.1468,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
         },
         "417": {
             "nombre_articulo": "BONDIOLA AL VACIO 1/2 MZ",
-            "precio": 20358.6856,
-            "modificado": false,
+            "precio": 21613.3346,
+            "modificado": true,
             "factor": "20",
             "unidad_kilo": "K",
             "peso_promedio": 1.2
@@ -558,37 +558,13 @@
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
-        },
-        "618": {
-            "nombre_articulo": "BATATA C/CHOC LATA ESNAOLA",
-            "precio": 16460.126099999998,
-            "modificado": true,
-            "factor": "4",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "619": {
-            "nombre_articulo": "BATATA LATA ESNAOLA",
-            "precio": 16460.126099999998,
-            "modificado": true,
-            "factor": "4",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "620": {
-            "nombre_articulo": "MEMBRILLO LATA ESNAOLA",
-            "precio": 20257.505400000002,
-            "modificado": true,
-            "factor": "4",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
         }
     },
     "Paladini": {
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
             "precio": 10545.815499999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
@@ -603,8 +579,8 @@
         },
         "51": {
             "nombre_articulo": "MORTADELA X 2.5KG PALADINI",
-            "precio": 11967.021,
-            "modificado": false,
+            "precio": 11967.4687,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
@@ -716,7 +692,7 @@
         "526": {
             "nombre_articulo": "HAMB. PALADINI X 2 UNID.",
             "precio": 2785.5289000000002,
-            "modificado": true,
+            "modificado": false,
             "factor": "30",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -779,27 +755,11 @@
         },
         "552": {
             "nombre_articulo": "MORTADELA PISTACHO PALADINI",
-            "precio": 15411.2134,
-            "modificado": false,
+            "precio": 15964.2439,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.5
-        },
-        "565": {
-            "nombre_articulo": "CRUDO ESPUÑA",
-            "precio": 46737.6173,
-            "modificado": true,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 4.7
-        },
-        "617": {
-            "nombre_articulo": "CRUDO PARMA PALADINI",
-            "precio": 34323.0657,
-            "modificado": true,
-            "factor": "2",
-            "unidad_kilo": "K",
-            "peso_promedio": 6.5
         }
     },
     "Quesada": {
@@ -845,16 +805,16 @@
         },
         "64": {
             "nombre_articulo": "MANTECA X100GR CLUCELAT",
-            "precio": 1157.0262,
-            "modificado": false,
+            "precio": 1167.5411,
+            "modificado": true,
             "factor": "60",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "65": {
             "nombre_articulo": "MANTECA X200GR CLUCELAT",
-            "precio": 2314.0403,
-            "modificado": false,
+            "precio": 2335.0701,
+            "modificado": true,
             "factor": "30",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1152,7 +1112,7 @@
         "529": {
             "nombre_articulo": "DULCE DE LECHE REP.X 10 KG",
             "precio": 32348.5514,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1176,7 +1136,7 @@
         "532": {
             "nombre_articulo": "DULCE DE LECHE FAM. X 1 KG.ARR.",
             "precio": 4287.393,
-            "modificado": true,
+            "modificado": false,
             "factor": "6",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1184,7 +1144,7 @@
         "616": {
             "nombre_articulo": "DULCE DE LECHE X 400 ARRODUL",
             "precio": 1666.6661000000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
