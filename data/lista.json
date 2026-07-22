@@ -1,66 +1,66 @@
 {
-    "FECHA": "16-07-2026",
+    "FECHA": "22-07-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
-            "precio": 7374.7927,
-            "modificado": false,
+            "precio": 8257.1247,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "47": {
             "nombre_articulo": "PAPAS CORTE AMERICANO",
-            "precio": 7374.7927,
-            "modificado": false,
+            "precio": 8257.1247,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "48": {
             "nombre_articulo": "PAPAS PAY PEIPO",
-            "precio": 7325.4005,
-            "modificado": false,
+            "precio": 8201.8277,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "49": {
             "nombre_articulo": "PALITOS SALADOS PEIPO",
-            "precio": 6733.831499999999,
-            "modificado": false,
+            "precio": 7258.2455,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "52": {
             "nombre_articulo": "MANI SALADO PEIPO",
-            "precio": 5975.609200000001,
-            "modificado": false,
+            "precio": 6386.4284,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
         },
         "53": {
             "nombre_articulo": "MANI C/CASCARA PEIPO",
-            "precio": 7685.92,
-            "modificado": false,
+            "precio": 8214.327,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "54": {
             "nombre_articulo": "BOLITAS CROCANTES PEIPO",
-            "precio": 3195.1018,
-            "modificado": false,
+            "precio": 3415.8663,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "55": {
             "nombre_articulo": "PIZZA ROLLS PEIPO",
-            "precio": 3014.1221,
-            "modificado": false,
+            "precio": 3248.8378999999995,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -75,8 +75,8 @@
         },
         "57": {
             "nombre_articulo": "MANI REPELADO PEIPO",
-            "precio": 6198.8905,
-            "modificado": false,
+            "precio": 6625.0525,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -91,40 +91,40 @@
         },
         "208": {
             "nombre_articulo": "PAPA CHEDDAR PEIPO X 330",
-            "precio": 6309.7265,
-            "modificado": false,
+            "precio": 7064.6576000000005,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "366": {
             "nombre_articulo": "MANI JAPONES X 700 PEIPO",
-            "precio": 5626.4032,
-            "modificado": false,
+            "precio": 5907.7282,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "458": {
             "nombre_articulo": "CHEESTICK QUESO X 300",
-            "precio": 3442.3048,
-            "modificado": false,
+            "precio": 3677.8313000000003,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "511": {
             "nombre_articulo": "CHEESTICK CHEDDAR X265GR",
-            "precio": 3684.7403999999997,
-            "modificado": false,
+            "precio": 4008.6211,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "518": {
             "nombre_articulo": "PALITOS SABOR QUESO X 500",
-            "precio": 6733.831499999999,
-            "modificado": false,
+            "precio": 7258.2455,
+            "modificado": true,
             "factor": "14",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -214,7 +214,7 @@
         "13": {
             "nombre_articulo": "PANCETA SALADA EMEZETA",
             "precio": 19804.2757,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.9
@@ -353,16 +353,16 @@
         },
         "40": {
             "nombre_articulo": "DULCE DE BATATA",
-            "precio": 11142.0914,
-            "modificado": false,
+            "precio": 11356.7575,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
         },
         "41": {
             "nombre_articulo": "DULCE DE BATATA C/CHOC",
-            "precio": 11142.0914,
-            "modificado": false,
+            "precio": 11356.7575,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 500.0
@@ -409,8 +409,8 @@
         },
         "309": {
             "nombre_articulo": "BATATA C/GUINDAS",
-            "precio": 24828.0384,
-            "modificado": false,
+            "precio": 25736.8089,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -595,32 +595,32 @@
     "Paladini": {
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
-            "precio": 10545.815499999999,
-            "modificado": false,
+            "precio": 10277.2318,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
         },
         "50": {
             "nombre_articulo": "MORTADELA FAM. PALADINI",
-            "precio": 3533.4177999999997,
-            "modificado": false,
+            "precio": 3561.6834,
+            "modificado": true,
             "factor": "16",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "51": {
             "nombre_articulo": "MORTADELA X 2.5KG PALADINI",
-            "precio": 11967.4687,
-            "modificado": false,
+            "precio": 10690.797700000001,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
         },
         "157": {
             "nombre_articulo": "VIENA X 6 FELA",
-            "precio": 1282.9146,
-            "modificado": false,
+            "precio": 1293.5021,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -965,8 +965,8 @@
         },
         "315": {
             "nombre_articulo": "PARMESANO MITAD",
-            "precio": 18942.1507,
-            "modificado": false,
+            "precio": 19483.6862,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
@@ -990,7 +990,7 @@
         "435": {
             "nombre_articulo": "PROVOLETA QUESADA",
             "precio": 16961.9252,
-            "modificado": false,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
@@ -998,10 +998,10 @@
         "436": {
             "nombre_articulo": "RICOTTA QUESADA",
             "precio": 4371.1492,
-            "modificado": false,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
-            "peso_promedio": 4.3
+            "peso_promedio": 4.2
         },
         "447": {
             "nombre_articulo": "CREMA X 5 QUESADA",
@@ -1118,7 +1118,7 @@
         "463": {
             "nombre_articulo": "JAMON NATURAL LOPARDO",
             "precio": 12663.3639,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.8
