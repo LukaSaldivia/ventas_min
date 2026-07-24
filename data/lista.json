@@ -1,5 +1,5 @@
 {
-    "FECHA": "22-07-2026",
+    "FECHA": "24-07-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -320,7 +320,7 @@
         "36": {
             "nombre_articulo": "MORTADELA GIG. CALCHAQUI",
             "precio": 10892.4321,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 25.0
@@ -346,7 +346,7 @@
         "39": {
             "nombre_articulo": "DULCE DE MEMBRILLO",
             "precio": 13859.3279,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
@@ -570,7 +570,7 @@
         "618": {
             "nombre_articulo": "BATATA C/CHOC LATA ESNAOLA",
             "precio": 16624.7224,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -578,7 +578,7 @@
         "619": {
             "nombre_articulo": "BATATA LATA ESNAOLA",
             "precio": 16624.7224,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -586,7 +586,7 @@
         "620": {
             "nombre_articulo": "MEMBRILLO LATA ESNAOLA",
             "precio": 20460.095699999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
