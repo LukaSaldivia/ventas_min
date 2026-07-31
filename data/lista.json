@@ -1,5 +1,5 @@
 {
-    "FECHA": "30-07-2026",
+    "FECHA": "31-07-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -643,8 +643,8 @@
         },
         "357": {
             "nombre_articulo": "LEBERWURST X 250 GRS.",
-            "precio": 2165.174,
-            "modificado": false,
+            "precio": 2288.594,
+            "modificado": true,
             "factor": "26",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -747,8 +747,8 @@
         },
         "535": {
             "nombre_articulo": "EMPANADAS JAMON Y QUESO",
-            "precio": 5566.605,
-            "modificado": false,
+            "precio": 6201.637199999999,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
