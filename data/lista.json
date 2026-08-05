@@ -1,5 +1,5 @@
 {
-    "FECHA": "31-07-2026",
+    "FECHA": "05-08-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -133,8 +133,8 @@
     "Emezeta": {
         "3": {
             "nombre_articulo": "CRUDO EMEZETA",
-            "precio": 26746.4208,
-            "modificado": false,
+            "precio": 29138.9901,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 3.4
@@ -854,7 +854,7 @@
         "66": {
             "nombre_articulo": "MUZZA CILINDRO QUESADA",
             "precio": 8943.5698,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 5.5
@@ -966,7 +966,7 @@
         "315": {
             "nombre_articulo": "PARMESANO MITAD",
             "precio": 19483.6862,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
