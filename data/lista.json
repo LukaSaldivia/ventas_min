@@ -1,10 +1,10 @@
 {
-    "FECHA": "10-09-2026",
+    "FECHA": "16-09-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
             "precio": 8403.0628,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -182,7 +182,7 @@
         "9": {
             "nombre_articulo": "BASTON EMEZETA",
             "precio": 14940.7775,
-            "modificado": true,
+            "modificado": false,
             "factor": "15",
             "unidad_kilo": "K",
             "peso_promedio": 1.9
@@ -348,6 +348,22 @@
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.5
+        },
+        "520": {
+            "nombre_articulo": "FIAMBRE DE PAVO",
+            "precio": 36603.6495,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 3.5
+        },
+        "640": {
+            "nombre_articulo": "PAVITA SADIA",
+            "precio": 13287.4577,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 3.5
         }
     },
     "Dulcor": {
@@ -433,32 +449,32 @@
         },
         "421": {
             "nombre_articulo": "MERMELADA FRUTILLA DULCOR FRASCO",
-            "precio": 2360.5164,
-            "modificado": false,
+            "precio": 2541.8591,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "422": {
             "nombre_articulo": "MERMELADA HIGO DULCOR FRASCO",
-            "precio": 2360.5164,
-            "modificado": false,
+            "precio": 2541.8591,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "423": {
             "nombre_articulo": "MERMELADA DURAZNO DULCOR FRASCO",
-            "precio": 1845.5525,
-            "modificado": false,
+            "precio": 1987.3403,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "424": {
             "nombre_articulo": "MERMELADA CIRUELA FRASCO DULCOR",
-            "precio": 1845.5525,
-            "modificado": false,
+            "precio": 1987.3403,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -561,8 +577,8 @@
         },
         "613": {
             "nombre_articulo": "MERMELADA POTE CIRUELA",
-            "precio": 1220.648,
-            "modificado": false,
+            "precio": 1316.0202,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -595,32 +611,32 @@
     "Paladini": {
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
-            "precio": 10318.129799999999,
-            "modificado": false,
+            "precio": 10937.686099999999,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
         },
         "50": {
             "nombre_articulo": "MORTADELA FAM. PALADINI",
-            "precio": 3561.6955000000003,
-            "modificado": false,
+            "precio": 3727.5381,
+            "modificado": true,
             "factor": "16",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "51": {
             "nombre_articulo": "MORTADELA X 2.5KG PALADINI",
-            "precio": 10733.6317,
-            "modificado": false,
+            "precio": 11471.683299999999,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
         },
         "157": {
             "nombre_articulo": "VIENA X 6 FELA",
-            "precio": 1331.4961,
-            "modificado": false,
+            "precio": 1411.3924,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -635,23 +651,23 @@
         },
         "340": {
             "nombre_articulo": "VIENA X 6 PALADINI",
-            "precio": 2191.2616,
-            "modificado": false,
+            "precio": 2384.6075,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "357": {
             "nombre_articulo": "LEBERWURST X 250 GRS.",
-            "precio": 2393.864,
-            "modificado": false,
+            "precio": 2450.9759999999997,
+            "modificado": true,
             "factor": "26",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
-            "precio": 15441.5239,
+            "precio": 15570.1953,
             "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
@@ -659,16 +675,16 @@
         },
         "398": {
             "nombre_articulo": "MILAN TIVOLI",
-            "precio": 12368.1602,
-            "modificado": false,
+            "precio": 13219.3347,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
         },
         "399": {
             "nombre_articulo": "MILAN FELA",
-            "precio": 15460.2184,
-            "modificado": false,
+            "precio": 17114.5304,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.2
@@ -683,16 +699,16 @@
         },
         "503": {
             "nombre_articulo": "PATE PALADINI",
-            "precio": 934.5798,
-            "modificado": false,
+            "precio": 948.3254,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "504": {
             "nombre_articulo": "PICADILLO PALADINI",
-            "precio": 934.5798,
-            "modificado": false,
+            "precio": 948.3254,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -715,8 +731,8 @@
         },
         "526": {
             "nombre_articulo": "HAMB. PALADINI X 2 UNID.",
-            "precio": 2891.1135,
-            "modificado": false,
+            "precio": 3035.6601,
+            "modificado": true,
             "factor": "30",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -739,24 +755,24 @@
         },
         "535": {
             "nombre_articulo": "EMPANADAS JAMON Y QUESO",
-            "precio": 6201.637199999999,
-            "modificado": false,
+            "precio": 6933.275799999999,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "536": {
             "nombre_articulo": "EMPANADAS CARNE",
-            "precio": 5519.8385,
-            "modificado": false,
+            "precio": 6514.8940999999995,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "537": {
             "nombre_articulo": "EMPANADAS ESPIN.Y QUESO",
-            "precio": 5519.8385,
-            "modificado": false,
+            "precio": 6514.8940999999995,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -771,7 +787,7 @@
         },
         "552": {
             "nombre_articulo": "MORTADELA PISTACHO PALADINI",
-            "precio": 15342.195,
+            "precio": 13654.547499999999,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
@@ -779,11 +795,19 @@
         },
         "565": {
             "nombre_articulo": "CRUDO ESPUÑA",
-            "precio": 65901.8514,
+            "precio": 59141.4362,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.7
+        },
+        "635": {
+            "nombre_articulo": "PAPAPS BASTON PRE FRITAS X 1.1 KG.",
+            "precio": 5539.041200000001,
+            "modificado": true,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
         }
     },
     "Quesada": {
@@ -934,7 +958,7 @@
         "147": {
             "nombre_articulo": "QUESO AZUL 1/2 EMPERADOR",
             "precio": 16112.1664,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
