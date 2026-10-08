@@ -1,5 +1,5 @@
 {
-    "FECHA": "30-09-2026",
+    "FECHA": "08-10-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -68,7 +68,7 @@
         "56": {
             "nombre_articulo": "MAIZ INFLADO PEIPO",
             "precio": 5954.240599999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -134,7 +134,7 @@
         "3": {
             "nombre_articulo": "CRUDO EMEZETA",
             "precio": 32032.1001,
-            "modificado": true,
+            "modificado": false,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 3.4
@@ -344,7 +344,7 @@
         "473": {
             "nombre_articulo": "LECHE LARGA VIDA ILOLAY",
             "precio": 2112.539,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.5
@@ -369,39 +369,39 @@
     "Dulcor": {
         "39": {
             "nombre_articulo": "DULCE DE MEMBRILLO",
-            "precio": 14545.966599999998,
-            "modificado": false,
+            "precio": 15127.7951,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
         },
         "40": {
             "nombre_articulo": "DULCE DE BATATA",
-            "precio": 12025.7665,
-            "modificado": false,
+            "precio": 12506.7899,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
         },
         "41": {
             "nombre_articulo": "DULCE DE BATATA C/CHOC",
-            "precio": 12025.7665,
-            "modificado": false,
+            "precio": 12506.7899,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 500.0
         },
         "155": {
             "nombre_articulo": "POSTRE DCE.LECHE C/CHOC.",
-            "precio": 41177.376899999996,
-            "modificado": false,
+            "precio": 42824.4652,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "281": {
             "nombre_articulo": "HILERET CLASICO X 400",
-            "precio": 9726.8391,
+            "precio": 10115.9025,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
@@ -409,192 +409,192 @@
         },
         "294": {
             "nombre_articulo": "BATATA LATA VLLA.",
-            "precio": 16184.693800000001,
-            "modificado": false,
+            "precio": 16832.0922,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "295": {
             "nombre_articulo": "BATATA LATA C/CHOC.",
-            "precio": 16184.693800000001,
-            "modificado": false,
+            "precio": 16832.0922,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "296": {
             "nombre_articulo": "MEMBRILLO LATA",
-            "precio": 19897.881299999997,
-            "modificado": false,
+            "precio": 20693.8072,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "309": {
             "nombre_articulo": "BATATA C/GUINDAS",
-            "precio": 27235.8658,
-            "modificado": false,
+            "precio": 28325.3014,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "421": {
             "nombre_articulo": "MERMELADA FRUTILLA DULCOR FRASCO",
-            "precio": 2541.8591,
-            "modificado": false,
+            "precio": 2643.5353999999998,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "422": {
             "nombre_articulo": "MERMELADA HIGO DULCOR FRASCO",
-            "precio": 2541.8591,
-            "modificado": false,
+            "precio": 2643.5353999999998,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "423": {
             "nombre_articulo": "MERMELADA DURAZNO DULCOR FRASCO",
-            "precio": 1987.3403,
-            "modificado": false,
+            "precio": 2066.8251999999998,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "424": {
             "nombre_articulo": "MERMELADA CIRUELA FRASCO DULCOR",
-            "precio": 1987.3403,
-            "modificado": false,
+            "precio": 2066.8251999999998,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "425": {
             "nombre_articulo": "MERMELADA NARANJA DULCOR FRASCO",
-            "precio": 1502.4933,
-            "modificado": false,
+            "precio": 1562.594,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "426": {
             "nombre_articulo": "MERMELADA DAMASCO DULCOR FRASCO",
-            "precio": 1504.4292999999998,
-            "modificado": false,
+            "precio": 1564.6146999999999,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "448": {
             "nombre_articulo": "BATATA CON CHOCOLATE X 2 KG",
-            "precio": 4497.1102,
-            "modificado": false,
+            "precio": 4677.0009,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "449": {
             "nombre_articulo": "BATATA VLLA.X 2 KG.",
-            "precio": 4497.1102,
-            "modificado": false,
+            "precio": 4677.0009,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "450": {
             "nombre_articulo": "MEMBRILLO X 2 KG.",
-            "precio": 5534.54,
-            "modificado": false,
+            "precio": 5755.9216,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "501": {
             "nombre_articulo": "MEMBRILLO X 500",
-            "precio": 1776.1832,
-            "modificado": false,
+            "precio": 1847.2344,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "513": {
             "nombre_articulo": "MANTECOL CLASICO X 111 GRS.",
-            "precio": 2122.2432,
-            "modificado": false,
+            "precio": 2207.1367999999998,
+            "modificado": true,
             "factor": "40",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "515": {
             "nombre_articulo": "MANTECOL CLASICO X 253 GRS.",
-            "precio": 4313.3475,
-            "modificado": false,
+            "precio": 4485.869299999999,
+            "modificado": true,
             "factor": "36",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "516": {
             "nombre_articulo": "MANTECOL LINGOTE X 500 GRS.",
-            "precio": 9936.798299999999,
-            "modificado": false,
+            "precio": 10334.2712,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "549": {
             "nombre_articulo": "MANTECOL X 404 GRS.",
-            "precio": 6102.1268,
-            "modificado": false,
+            "precio": 6346.2201000000005,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "563": {
             "nombre_articulo": "MEMBRILLO X 500 ESNAOLA",
-            "precio": 1880.8119000000002,
-            "modificado": false,
+            "precio": 1956.0375999999999,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "608": {
             "nombre_articulo": "MERMELADA POTE DURAZNO DULCOR",
-            "precio": 1292.9334,
-            "modificado": false,
+            "precio": 1344.6488,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "613": {
             "nombre_articulo": "MERMELADA POTE CIRUELA",
-            "precio": 1316.0202,
-            "modificado": false,
+            "precio": 1368.6552,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "618": {
             "nombre_articulo": "BATATA C/CHOC LATA ESNAOLA",
-            "precio": 17774.464399999997,
-            "modificado": false,
+            "precio": 18485.4362,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "619": {
             "nombre_articulo": "BATATA LATA ESNAOLA",
-            "precio": 17774.464399999997,
-            "modificado": false,
+            "precio": 18485.4362,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "620": {
             "nombre_articulo": "MEMBRILLO LATA ESNAOLA",
-            "precio": 21875.0818,
-            "modificado": false,
+            "precio": 22750.0812,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -620,7 +620,7 @@
         "51": {
             "nombre_articulo": "MORTADELA X 2.5KG PALADINI",
             "precio": 11472.143100000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
@@ -756,7 +756,7 @@
         "536": {
             "nombre_articulo": "EMPANADAS CARNE",
             "precio": 6514.8940999999995,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -764,10 +764,18 @@
         "537": {
             "nombre_articulo": "EMPANADAS ESPIN.Y QUESO",
             "precio": 6514.8940999999995,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
+        },
+        "544": {
+            "nombre_articulo": "SALCHICHON TRIPLE PALADINI",
+            "precio": 9901.926099999999,
+            "modificado": true,
+            "factor": "4",
+            "unidad_kilo": "K",
+            "peso_promedio": 2.8
         },
         "550": {
             "nombre_articulo": "CRUDO BLOQUE PALADINI",
@@ -796,7 +804,7 @@
         "635": {
             "nombre_articulo": "PAPAS BASTON PRE FRITAS X 1.1 KG.",
             "precio": 5949.3401,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -804,7 +812,7 @@
         "646": {
             "nombre_articulo": "MORTADELA FAMILIAR C/PISTACHO",
             "precio": 4438.401,
-            "modificado": true,
+            "modificado": false,
             "factor": "16",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1081,16 +1089,16 @@
         },
         "123": {
             "nombre_articulo": "BONDIOLA W",
-            "precio": 20331.9083,
-            "modificado": false,
+            "precio": 21399.2977,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
         },
         "124": {
             "nombre_articulo": "PALETA P/EMP.W",
-            "precio": 3192.3188,
-            "modificado": false,
+            "precio": 3243.2477,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.8
@@ -1134,7 +1142,7 @@
         "490": {
             "nombre_articulo": "PALETA COCIDA DON SILVIO",
             "precio": 7062.152899999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
@@ -1142,7 +1150,7 @@
         "496": {
             "nombre_articulo": "QUESO DE CERDO LOPARDO",
             "precio": 5803.2083999999995,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
