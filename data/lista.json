@@ -1,5 +1,5 @@
 {
-    "FECHA": "11-11-2026",
+    "FECHA": "19-11-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -198,7 +198,7 @@
         "10": {
             "nombre_articulo": "BONDIOLA EMEZETA",
             "precio": 23026.1306,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "K",
             "peso_promedio": 1.7
@@ -312,10 +312,10 @@
         "32": {
             "nombre_articulo": "MORTADELA BOCHA CALCHAQUI",
             "precio": 10480.2456,
-            "modificado": false,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
-            "peso_promedio": 5.7
+            "peso_promedio": 5.8
         },
         "33": {
             "nombre_articulo": "MORTADELA CAÑON CALCHAQUI",
@@ -386,7 +386,7 @@
         "39": {
             "nombre_articulo": "DULCE DE MEMBRILLO",
             "precio": 16217.0855,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
@@ -394,7 +394,7 @@
         "40": {
             "nombre_articulo": "DULCE DE BATATA",
             "precio": 13327.8838,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
@@ -402,7 +402,7 @@
         "41": {
             "nombre_articulo": "DULCE DE BATATA C/CHOC",
             "precio": 13327.8838,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 500.0
@@ -426,7 +426,7 @@
         "294": {
             "nombre_articulo": "BATATA LATA VLLA.",
             "precio": 17622.4521,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -434,7 +434,7 @@
         "295": {
             "nombre_articulo": "BATATA LATA C/CHOC.",
             "precio": 17622.4521,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -450,7 +450,7 @@
         "309": {
             "nombre_articulo": "BATATA C/GUINDAS",
             "precio": 30514.493899999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -554,7 +554,7 @@
         "618": {
             "nombre_articulo": "BATATA C/CHOC LATA ESNAOLA",
             "precio": 20641.39,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -562,7 +562,7 @@
         "619": {
             "nombre_articulo": "BATATA LATA ESNAOLA",
             "precio": 20641.39,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -570,7 +570,7 @@
         "620": {
             "nombre_articulo": "MEMBRILLO LATA ESNAOLA",
             "precio": 25318.7297,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -579,32 +579,40 @@
     "Paladini": {
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
-            "precio": 11359.3106,
-            "modificado": false,
+            "precio": 12057.9646,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
         },
         "50": {
             "nombre_articulo": "MORTADELA FAM. PALADINI",
-            "precio": 3839.3784,
-            "modificado": false,
+            "precio": 4039.585,
+            "modificado": true,
             "factor": "16",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "51": {
             "nombre_articulo": "MORTADELA X 2.5KG PALADINI",
-            "precio": 11816.0735,
-            "modificado": false,
+            "precio": 12432.0361,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
         },
+        "139": {
+            "nombre_articulo": "LEBER CALCHAQUI",
+            "precio": 1448.2126999999998,
+            "modificado": true,
+            "factor": "25",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
         "157": {
             "nombre_articulo": "VIENA X 6 FELA",
-            "precio": 1411.3924,
-            "modificado": false,
+            "precio": 1542.7258,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -619,64 +627,64 @@
         },
         "340": {
             "nombre_articulo": "VIENA X 6 PALADINI",
-            "precio": 2456.1427,
-            "modificado": false,
+            "precio": 2583.471,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "357": {
             "nombre_articulo": "LEBERWURST X 250 GRS.",
-            "precio": 2450.9759999999997,
-            "modificado": false,
+            "precio": 2477.9953,
+            "modificado": true,
             "factor": "26",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
-            "precio": 16037.485200000001,
-            "modificado": false,
+            "precio": 16535.738999999998,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 4.7
         },
         "399": {
             "nombre_articulo": "MILAN FELA",
-            "precio": 17627.969699999998,
-            "modificado": false,
+            "precio": 14957.052,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.2
         },
         "400": {
             "nombre_articulo": "BONDIOLA PALADINI",
-            "precio": 29219.5882,
-            "modificado": false,
+            "precio": 29497.609899999996,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
         },
         "503": {
             "nombre_articulo": "PATE PALADINI",
-            "precio": 976.2764,
-            "modificado": false,
+            "precio": 1045.6941,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "504": {
             "nombre_articulo": "PICADILLO PALADINI",
-            "precio": 976.2764,
-            "modificado": false,
+            "precio": 1045.6941,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "526": {
             "nombre_articulo": "HAMB. PALADINI X 2 UNID.",
-            "precio": 3126.8699,
-            "modificado": false,
+            "precio": 3350.2964,
+            "modificado": true,
             "factor": "30",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -699,56 +707,48 @@
         },
         "535": {
             "nombre_articulo": "EMPANADAS JAMON Y QUESO",
-            "precio": 7141.698299999999,
-            "modificado": false,
+            "precio": 7447.7919999999995,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "536": {
             "nombre_articulo": "EMPANADAS CARNE",
-            "precio": 6710.7326,
-            "modificado": false,
+            "precio": 6998.3617,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "537": {
             "nombre_articulo": "EMPANADAS ESPIN.Y QUESO",
-            "precio": 6710.7326,
-            "modificado": false,
+            "precio": 6998.3617,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "544": {
             "nombre_articulo": "SALCHICHON TRIPLE PALADINI",
-            "precio": 10060.3151,
-            "modificado": false,
+            "precio": 10591.4446,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
         },
-        "550": {
-            "nombre_articulo": "CRUDO BLOQUE PALADINI",
-            "precio": 46177.2784,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 3.0
-        },
         "565": {
             "nombre_articulo": "CRUDO ESPUÑA",
-            "precio": 61679.73789999999,
-            "modificado": false,
+            "precio": 58865.8345,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.7
         },
         "635": {
             "nombre_articulo": "PAPAS BASTON PRE FRITAS X 1.1 KG.",
-            "precio": 5949.3401,
-            "modificado": false,
+            "precio": 6270.1353,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -798,7 +798,7 @@
         "63": {
             "nombre_articulo": "GOUDA QUESADA",
             "precio": 11845.416,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -1098,14 +1098,6 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
-        },
-        "590": {
-            "nombre_articulo": "MORCILLA AL VACIO",
-            "precio": 5753.6105,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 4.6
         }
     },
     "Arrodul": {
